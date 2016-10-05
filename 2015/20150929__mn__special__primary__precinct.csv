@@ -1,0 +1,416 @@
+county_code,county,precinct_code,precinct,office,district,party,candidate,votes,pct
+16,Cook,0005,COLVILL PREC 3,State Representative District 3A,3A,R,ROGER SKRABA,11,100.00
+16,Cook,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,HEIDI OMERZA,5,6.58
+16,Cook,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,ERIC JOHNSON,8,10.53
+16,Cook,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,ROB ECKLUND,6,7.89
+16,Cook,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,BILL HANSEN,57,75.00
+16,Cook,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,R,ROGER SKRABA,5,100.00
+16,Cook,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,DFL,HEIDI OMERZA,1,0.70
+16,Cook,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,DFL,ERIC JOHNSON,16,11.19
+16,Cook,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,DFL,ROB ECKLUND,12,8.39
+16,Cook,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,DFL,BILL HANSEN,114,79.72
+16,Cook,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,R,ROGER SKRABA,5,100.00
+16,Cook,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,2.10
+16,Cook,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,DFL,ERIC JOHNSON,8,5.59
+16,Cook,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,DFL,ROB ECKLUND,13,9.09
+16,Cook,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,DFL,BILL HANSEN,119,83.22
+16,Cook,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,R,ROGER SKRABA,9,100.00
+16,Cook,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,3.64
+16,Cook,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,DFL,ERIC JOHNSON,5,9.09
+16,Cook,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,DFL,ROB ECKLUND,10,18.18
+16,Cook,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,DFL,BILL HANSEN,38,69.09
+16,Cook,0025,HOVLAND PREC 2,State Representative District 3A,3A,R,ROGER SKRABA,15,100.00
+16,Cook,0025,HOVLAND PREC 2,State Representative District 3A,3A,DFL,HEIDI OMERZA,5,4.31
+16,Cook,0025,HOVLAND PREC 2,State Representative District 3A,3A,DFL,ERIC JOHNSON,11,9.48
+16,Cook,0025,HOVLAND PREC 2,State Representative District 3A,3A,DFL,ROB ECKLUND,14,12.07
+16,Cook,0025,HOVLAND PREC 2,State Representative District 3A,3A,DFL,BILL HANSEN,86,74.14
+16,Cook,0030,CASCADE PREC 7,State Representative District 3A,3A,R,ROGER SKRABA,17,100.00
+16,Cook,0030,CASCADE PREC 7,State Representative District 3A,3A,DFL,HEIDI OMERZA,1,0.50
+16,Cook,0030,CASCADE PREC 7,State Representative District 3A,3A,DFL,ERIC JOHNSON,26,12.94
+16,Cook,0030,CASCADE PREC 7,State Representative District 3A,3A,DFL,ROB ECKLUND,27,13.43
+16,Cook,0030,CASCADE PREC 7,State Representative District 3A,3A,DFL,BILL HANSEN,147,73.13
+16,Cook,0035,LUTSEN PREC 10,State Representative District 3A,3A,R,ROGER SKRABA,25,100.00
+16,Cook,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,HEIDI OMERZA,9,5.06
+16,Cook,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,ERIC JOHNSON,10,5.62
+16,Cook,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,ROB ECKLUND,6,3.37
+16,Cook,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,BILL HANSEN,153,85.96
+16,Cook,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,R,ROGER SKRABA,35,100.00
+16,Cook,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,DFL,HEIDI OMERZA,6,4.05
+16,Cook,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,DFL,ERIC JOHNSON,8,5.41
+16,Cook,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,DFL,ROB ECKLUND,10,6.76
+16,Cook,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,DFL,BILL HANSEN,124,83.78
+16,Cook,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,R,ROGER SKRABA,13,100.00
+16,Cook,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+16,Cook,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,DFL,ERIC JOHNSON,7,11.67
+16,Cook,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,DFL,ROB ECKLUND,8,13.33
+16,Cook,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,DFL,BILL HANSEN,45,75.00
+16,Cook,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,R,ROGER SKRABA,4,100.00
+16,Cook,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,3.30
+16,Cook,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,ERIC JOHNSON,4,4.40
+16,Cook,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,ROB ECKLUND,2,2.20
+16,Cook,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,BILL HANSEN,82,90.11
+16,Cook,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,R,ROGER SKRABA,10,100.00
+16,Cook,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,3.13
+16,Cook,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,DFL,ERIC JOHNSON,3,4.69
+16,Cook,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,DFL,ROB ECKLUND,6,9.38
+16,Cook,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,DFL,BILL HANSEN,53,82.81
+16,Cook,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,R,ROGER SKRABA,11,100.00
+16,Cook,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+16,Cook,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,ERIC JOHNSON,2,2.70
+16,Cook,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,ROB ECKLUND,3,4.05
+16,Cook,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,BILL HANSEN,69,93.24
+16,Cook,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,R,ROGER SKRABA,33,100.00
+16,Cook,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,HEIDI OMERZA,5,2.17
+16,Cook,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,ERIC JOHNSON,24,10.43
+16,Cook,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,ROB ECKLUND,35,15.22
+16,Cook,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,BILL HANSEN,166,72.17
+36,Koochiching,0005,COLVILL PREC 3,State Representative District 3A,3A,R,ROGER SKRABA,4,100.00
+36,Koochiching,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+36,Koochiching,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,ERIC JOHNSON,3,13.04
+36,Koochiching,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,ROB ECKLUND,17,73.91
+36,Koochiching,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,BILL HANSEN,3,13.04
+36,Koochiching,0023,DINNER CREEK UNORGANIZED,State Representative District 3A,3A,R,ROGER SKRABA,2,100.00
+36,Koochiching,0023,DINNER CREEK UNORGANIZED,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+36,Koochiching,0023,DINNER CREEK UNORGANIZED,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+36,Koochiching,0023,DINNER CREEK UNORGANIZED,State Representative District 3A,3A,DFL,ROB ECKLUND,1,100.00
+36,Koochiching,0023,DINNER CREEK UNORGANIZED,State Representative District 3A,3A,DFL,BILL HANSEN,0,0.00
+36,Koochiching,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+36,Koochiching,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,HEIDI OMERZA,7,3.32
+36,Koochiching,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,ERIC JOHNSON,40,18.96
+36,Koochiching,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,ROB ECKLUND,154,72.99
+36,Koochiching,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,BILL HANSEN,10,4.74
+36,Koochiching,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,R,ROGER SKRABA,5,100.00
+36,Koochiching,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,DFL,HEIDI OMERZA,4,2.03
+36,Koochiching,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,DFL,ERIC JOHNSON,28,14.21
+36,Koochiching,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,DFL,ROB ECKLUND,151,76.65
+36,Koochiching,0055,CROFTVILLE PREC 4,State Representative District 3A,3A,DFL,BILL HANSEN,14,7.11
+36,Koochiching,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,R,ROGER SKRABA,8,100.00
+36,Koochiching,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,HEIDI OMERZA,6,1.61
+36,Koochiching,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,ERIC JOHNSON,37,9.95
+36,Koochiching,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,ROB ECKLUND,293,78.76
+36,Koochiching,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,BILL HANSEN,36,9.68
+36,Koochiching,0070,JAMESON PRECINCT,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+36,Koochiching,0070,JAMESON PRECINCT,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+36,Koochiching,0070,JAMESON PRECINCT,State Representative District 3A,3A,DFL,ERIC JOHNSON,4,16.00
+36,Koochiching,0070,JAMESON PRECINCT,State Representative District 3A,3A,DFL,ROB ECKLUND,20,80.00
+36,Koochiching,0070,JAMESON PRECINCT,State Representative District 3A,3A,DFL,BILL HANSEN,1,4.00
+36,Koochiching,0075,KOOCHICHING POLL 1,State Representative District 3A,3A,R,ROGER SKRABA,4,100.00
+36,Koochiching,0075,KOOCHICHING POLL 1,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,1.39
+36,Koochiching,0075,KOOCHICHING POLL 1,State Representative District 3A,3A,DFL,ERIC JOHNSON,40,18.52
+36,Koochiching,0075,KOOCHICHING POLL 1,State Representative District 3A,3A,DFL,ROB ECKLUND,160,74.07
+36,Koochiching,0075,KOOCHICHING POLL 1,State Representative District 3A,3A,DFL,BILL HANSEN,13,6.02
+36,Koochiching,0080,KOOCHICHING POLL 2,State Representative District 3A,3A,R,ROGER SKRABA,2,100.00
+36,Koochiching,0080,KOOCHICHING POLL 2,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,3.23
+36,Koochiching,0080,KOOCHICHING POLL 2,State Representative District 3A,3A,DFL,ERIC JOHNSON,19,20.43
+36,Koochiching,0080,KOOCHICHING POLL 2,State Representative District 3A,3A,DFL,ROB ECKLUND,62,66.67
+36,Koochiching,0080,KOOCHICHING POLL 2,State Representative District 3A,3A,DFL,BILL HANSEN,9,9.68
+36,Koochiching,0082,KOOCHICHING POLL 4,State Representative District 3A,3A,R,ROGER SKRABA,2,100.00
+36,Koochiching,0082,KOOCHICHING POLL 4,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,2.82
+36,Koochiching,0082,KOOCHICHING POLL 4,State Representative District 3A,3A,DFL,ERIC JOHNSON,4,5.63
+36,Koochiching,0082,KOOCHICHING POLL 4,State Representative District 3A,3A,DFL,ROB ECKLUND,60,84.51
+36,Koochiching,0082,KOOCHICHING POLL 4,State Representative District 3A,3A,DFL,BILL HANSEN,5,7.04
+36,Koochiching,0083,KOOCHICHING POLL 5,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+36,Koochiching,0083,KOOCHICHING POLL 5,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+36,Koochiching,0083,KOOCHICHING POLL 5,State Representative District 3A,3A,DFL,ERIC JOHNSON,13,16.88
+36,Koochiching,0083,KOOCHICHING POLL 5,State Representative District 3A,3A,DFL,ROB ECKLUND,61,79.22
+36,Koochiching,0083,KOOCHICHING POLL 5,State Representative District 3A,3A,DFL,BILL HANSEN,3,3.90
+36,Koochiching,0090,LITTLEFORK,State Representative District 3A,3A,R,ROGER SKRABA,4,100.00
+36,Koochiching,0090,LITTLEFORK,State Representative District 3A,3A,DFL,HEIDI OMERZA,1,1.12
+36,Koochiching,0090,LITTLEFORK,State Representative District 3A,3A,DFL,ERIC JOHNSON,9,10.11
+36,Koochiching,0090,LITTLEFORK,State Representative District 3A,3A,DFL,ROB ECKLUND,77,86.52
+36,Koochiching,0090,LITTLEFORK,State Representative District 3A,3A,DFL,BILL HANSEN,2,2.25
+36,Koochiching,0100,MIZPAH CITY,State Representative District 3A,3A,R,ROGER SKRABA,10,100.00
+36,Koochiching,0100,MIZPAH CITY,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+36,Koochiching,0100,MIZPAH CITY,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+36,Koochiching,0100,MIZPAH CITY,State Representative District 3A,3A,DFL,ROB ECKLUND,3,100.00
+36,Koochiching,0100,MIZPAH CITY,State Representative District 3A,3A,DFL,BILL HANSEN,0,0.00
+36,Koochiching,0115,NORTHOME,State Representative District 3A,3A,R,ROGER SKRABA,12,100.00
+36,Koochiching,0115,NORTHOME,State Representative District 3A,3A,DFL,HEIDI OMERZA,4,17.39
+36,Koochiching,0115,NORTHOME,State Representative District 3A,3A,DFL,ERIC JOHNSON,6,26.09
+36,Koochiching,0115,NORTHOME,State Representative District 3A,3A,DFL,ROB ECKLUND,10,43.48
+36,Koochiching,0115,NORTHOME,State Representative District 3A,3A,DFL,BILL HANSEN,3,13.04
+36,Koochiching,0120,RANIER P-E,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+36,Koochiching,0120,RANIER P-E,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+36,Koochiching,0120,RANIER P-E,State Representative District 3A,3A,DFL,ERIC JOHNSON,9,16.98
+36,Koochiching,0120,RANIER P-E,State Representative District 3A,3A,DFL,ROB ECKLUND,42,79.25
+36,Koochiching,0120,RANIER P-E,State Representative District 3A,3A,DFL,BILL HANSEN,2,3.77
+36,Koochiching,0121,RANIER P-W,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+36,Koochiching,0121,RANIER P-W,State Representative District 3A,3A,DFL,HEIDI OMERZA,1,1.69
+36,Koochiching,0121,RANIER P-W,State Representative District 3A,3A,DFL,ERIC JOHNSON,6,10.17
+36,Koochiching,0121,RANIER P-W,State Representative District 3A,3A,DFL,ROB ECKLUND,47,79.66
+36,Koochiching,0121,RANIER P-W,State Representative District 3A,3A,DFL,BILL HANSEN,5,8.47
+36,Koochiching,0140,SCARLETT PRECINCT,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+36,Koochiching,0140,SCARLETT PRECINCT,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+36,Koochiching,0140,SCARLETT PRECINCT,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,7.69
+36,Koochiching,0140,SCARLETT PRECINCT,State Representative District 3A,3A,DFL,ROB ECKLUND,12,92.31
+36,Koochiching,0140,SCARLETT PRECINCT,State Representative District 3A,3A,DFL,BILL HANSEN,0,0.00
+36,Koochiching,0170,MEADOWBROOK PRECINCT,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+36,Koochiching,0170,MEADOWBROOK PRECINCT,State Representative District 3A,3A,DFL,HEIDI OMERZA,1,7.69
+36,Koochiching,0170,MEADOWBROOK PRECINCT,State Representative District 3A,3A,DFL,ERIC JOHNSON,2,15.38
+36,Koochiching,0170,MEADOWBROOK PRECINCT,State Representative District 3A,3A,DFL,ROB ECKLUND,10,76.92
+36,Koochiching,0170,MEADOWBROOK PRECINCT,State Representative District 3A,3A,DFL,BILL HANSEN,0,0.00
+36,Koochiching,0175,WEST KOOCHICHING,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+36,Koochiching,0175,WEST KOOCHICHING,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+36,Koochiching,0175,WEST KOOCHICHING,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+36,Koochiching,0175,WEST KOOCHICHING,State Representative District 3A,3A,DFL,ROB ECKLUND,0,0.00
+36,Koochiching,0175,WEST KOOCHICHING,State Representative District 3A,3A,DFL,BILL HANSEN,0,0.00
+36,Koochiching,0180,CENTRAL KOOCHICHING,State Representative District 3A,3A,R,ROGER SKRABA,28,100.00
+36,Koochiching,0180,CENTRAL KOOCHICHING,State Representative District 3A,3A,DFL,HEIDI OMERZA,8,6.72
+36,Koochiching,0180,CENTRAL KOOCHICHING,State Representative District 3A,3A,DFL,ERIC JOHNSON,25,21.01
+36,Koochiching,0180,CENTRAL KOOCHICHING,State Representative District 3A,3A,DFL,ROB ECKLUND,78,65.55
+36,Koochiching,0180,CENTRAL KOOCHICHING,State Representative District 3A,3A,DFL,BILL HANSEN,8,6.72
+36,Koochiching,0185,NORTHWEST KOOCHICHING,State Representative District 3A,3A,R,ROGER SKRABA,27,100.00
+36,Koochiching,0185,NORTHWEST KOOCHICHING,State Representative District 3A,3A,DFL,HEIDI OMERZA,5,6.10
+36,Koochiching,0185,NORTHWEST KOOCHICHING,State Representative District 3A,3A,DFL,ERIC JOHNSON,11,13.41
+36,Koochiching,0185,NORTHWEST KOOCHICHING,State Representative District 3A,3A,DFL,ROB ECKLUND,59,71.95
+36,Koochiching,0185,NORTHWEST KOOCHICHING,State Representative District 3A,3A,DFL,BILL HANSEN,7,8.54
+36,Koochiching,0190,SOUTHEAST KOOCHICHING,State Representative District 3A,3A,R,ROGER SKRABA,4,100.00
+36,Koochiching,0190,SOUTHEAST KOOCHICHING,State Representative District 3A,3A,DFL,HEIDI OMERZA,1,14.29
+36,Koochiching,0190,SOUTHEAST KOOCHICHING,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+36,Koochiching,0190,SOUTHEAST KOOCHICHING,State Representative District 3A,3A,DFL,ROB ECKLUND,4,57.14
+36,Koochiching,0190,SOUTHEAST KOOCHICHING,State Representative District 3A,3A,DFL,BILL HANSEN,2,28.57
+36,Koochiching,0195,SOUTHWEST KOOCHICHING,State Representative District 3A,3A,R,ROGER SKRABA,36,100.00
+36,Koochiching,0195,SOUTHWEST KOOCHICHING,State Representative District 3A,3A,DFL,HEIDI OMERZA,4,8.00
+36,Koochiching,0195,SOUTHWEST KOOCHICHING,State Representative District 3A,3A,DFL,ERIC JOHNSON,5,10.00
+36,Koochiching,0195,SOUTHWEST KOOCHICHING,State Representative District 3A,3A,DFL,ROB ECKLUND,34,68.00
+36,Koochiching,0195,SOUTHWEST KOOCHICHING,State Representative District 3A,3A,DFL,BILL HANSEN,7,14.00
+38,Lake,0005,COLVILL PREC 3,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+38,Lake,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,16.67
+38,Lake,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,5.56
+38,Lake,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,ROB ECKLUND,9,50.00
+38,Lake,0005,COLVILL PREC 3,State Representative District 3A,3A,DFL,BILL HANSEN,5,27.78
+38,Lake,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,R,ROGER SKRABA,2,100.00
+38,Lake,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,5.13
+38,Lake,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,DFL,ERIC JOHNSON,2,5.13
+38,Lake,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,DFL,ROB ECKLUND,22,56.41
+38,Lake,0010,GRAND MARAIS EAST PREC 5,State Representative District 3A,3A,DFL,BILL HANSEN,13,33.33
+38,Lake,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+38,Lake,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,3.85
+38,Lake,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+38,Lake,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,DFL,ROB ECKLUND,17,32.69
+38,Lake,0020,GRAND PORTAGE PREC 1,State Representative District 3A,3A,DFL,BILL HANSEN,33,63.46
+38,Lake,0025,HOVLAND PREC 2,State Representative District 3A,3A,R,ROGER SKRABA,4,100.00
+38,Lake,0025,HOVLAND PREC 2,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,2.06
+38,Lake,0025,HOVLAND PREC 2,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+38,Lake,0025,HOVLAND PREC 2,State Representative District 3A,3A,DFL,ROB ECKLUND,23,23.71
+38,Lake,0025,HOVLAND PREC 2,State Representative District 3A,3A,DFL,BILL HANSEN,72,74.23
+38,Lake,0035,LUTSEN PREC 10,State Representative District 3A,3A,R,ROGER SKRABA,6,100.00
+38,Lake,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,HEIDI OMERZA,25,11.79
+38,Lake,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,ERIC JOHNSON,7,3.30
+38,Lake,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,ROB ECKLUND,62,29.25
+38,Lake,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,BILL HANSEN,118,55.66
+38,Lake,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,R,ROGER SKRABA,13,100.00
+38,Lake,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,DFL,HEIDI OMERZA,5,5.21
+38,Lake,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,DFL,ERIC JOHNSON,13,13.54
+38,Lake,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,DFL,ROB ECKLUND,38,39.58
+38,Lake,0040,GUNFLINT TRAIL PREC 8,State Representative District 3A,3A,DFL,BILL HANSEN,40,41.67
+38,Lake,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,R,ROGER SKRABA,11,100.00
+38,Lake,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,HEIDI OMERZA,12,7.19
+38,Lake,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,ERIC JOHNSON,17,10.18
+38,Lake,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,ROB ECKLUND,97,58.08
+38,Lake,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,BILL HANSEN,41,24.55
+38,Lake,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,R,ROGER SKRABA,7,100.00
+38,Lake,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,1.85
+38,Lake,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,ERIC JOHNSON,8,7.41
+38,Lake,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,ROB ECKLUND,25,23.15
+38,Lake,0060,PIKE LAKE PREC 9,State Representative District 3A,3A,DFL,BILL HANSEN,73,67.59
+38,Lake,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+38,Lake,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,4.88
+38,Lake,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,ERIC JOHNSON,3,7.32
+38,Lake,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,ROB ECKLUND,10,24.39
+38,Lake,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,BILL HANSEN,26,63.41
+38,Lake,0110,UNORG TERR NO 1,State Representative District 3A,3A,R,ROGER SKRABA,2,100.00
+38,Lake,0110,UNORG TERR NO 1,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+38,Lake,0110,UNORG TERR NO 1,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,3.70
+38,Lake,0110,UNORG TERR NO 1,State Representative District 3A,3A,DFL,ROB ECKLUND,5,18.52
+38,Lake,0110,UNORG TERR NO 1,State Representative District 3A,3A,DFL,BILL HANSEN,21,77.78
+38,Lake,0130,UNORG TERR NO 2 PREC 4,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+38,Lake,0130,UNORG TERR NO 2 PREC 4,State Representative District 3A,3A,DFL,HEIDI OMERZA,5,12.50
+38,Lake,0130,UNORG TERR NO 2 PREC 4,State Representative District 3A,3A,DFL,ERIC JOHNSON,2,5.00
+38,Lake,0130,UNORG TERR NO 2 PREC 4,State Representative District 3A,3A,DFL,ROB ECKLUND,9,22.50
+38,Lake,0130,UNORG TERR NO 2 PREC 4,State Representative District 3A,3A,DFL,BILL HANSEN,24,60.00
+38,Lake,0135,UNORG TERR NO 2 PREC 5,State Representative District 3A,3A,R,ROGER SKRABA,7,100.00
+38,Lake,0135,UNORG TERR NO 2 PREC 5,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,7.41
+38,Lake,0135,UNORG TERR NO 2 PREC 5,State Representative District 3A,3A,DFL,ERIC JOHNSON,10,37.04
+38,Lake,0135,UNORG TERR NO 2 PREC 5,State Representative District 3A,3A,DFL,ROB ECKLUND,4,14.81
+38,Lake,0135,UNORG TERR NO 2 PREC 5,State Representative District 3A,3A,DFL,BILL HANSEN,11,40.74
+69,St. Louis,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,DFL,HEIDI OMERZA,4,10.26
+69,St. Louis,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,2.56
+69,St. Louis,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,DFL,ROB ECKLUND,3,7.69
+69,St. Louis,0015,GRAND MARAIS WEST PREC 6,State Representative District 3A,3A,DFL,BILL HANSEN,31,79.49
+69,St. Louis,0030,CASCADE PREC 7,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+69,St. Louis,0030,CASCADE PREC 7,State Representative District 3A,3A,DFL,HEIDI OMERZA,1,4.00
+69,St. Louis,0030,CASCADE PREC 7,State Representative District 3A,3A,DFL,ERIC JOHNSON,2,8.00
+69,St. Louis,0030,CASCADE PREC 7,State Representative District 3A,3A,DFL,ROB ECKLUND,13,52.00
+69,St. Louis,0030,CASCADE PREC 7,State Representative District 3A,3A,DFL,BILL HANSEN,9,36.00
+69,St. Louis,0035,LUTSEN PREC 10,State Representative District 3A,3A,R,ROGER SKRABA,15,100.00
+69,St. Louis,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,HEIDI OMERZA,41,19.25
+69,St. Louis,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,ERIC JOHNSON,20,9.39
+69,St. Louis,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,ROB ECKLUND,140,65.73
+69,St. Louis,0035,LUTSEN PREC 10,State Representative District 3A,3A,DFL,BILL HANSEN,12,5.63
+69,St. Louis,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+69,St. Louis,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+69,St. Louis,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,DFL,ROB ECKLUND,5,62.50
+69,St. Louis,0045,SCHROEDER TWP PREC 12,State Representative District 3A,3A,DFL,BILL HANSEN,3,37.50
+69,St. Louis,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+69,St. Louis,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,HEIDI OMERZA,9,10.71
+69,St. Louis,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,ERIC JOHNSON,11,13.10
+69,St. Louis,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,ROB ECKLUND,38,45.24
+69,St. Louis,0050,TOFTE TWP PREC 11,State Representative District 3A,3A,DFL,BILL HANSEN,26,30.95
+69,St. Louis,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,R,ROGER SKRABA,7,100.00
+69,St. Louis,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,HEIDI OMERZA,28,20.59
+69,St. Louis,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,ERIC JOHNSON,21,15.44
+69,St. Louis,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,ROB ECKLUND,68,50.00
+69,St. Louis,0065,MAPLE HILL PREC 8A,State Representative District 3A,3A,DFL,BILL HANSEN,19,13.97
+69,St. Louis,0066,UNORG. PRCT. 22,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,0066,UNORG. PRCT. 22,State Representative District 3A,3A,DFL,HEIDI OMERZA,1,33.33
+69,St. Louis,0066,UNORG. PRCT. 22,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+69,St. Louis,0066,UNORG. PRCT. 22,State Representative District 3A,3A,DFL,ROB ECKLUND,2,66.67
+69,St. Louis,0066,UNORG. PRCT. 22,State Representative District 3A,3A,DFL,BILL HANSEN,0,0.00
+69,St. Louis,0125,COOK,State Representative District 3A,3A,R,ROGER SKRABA,4,100.00
+69,St. Louis,0125,COOK,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,6.82
+69,St. Louis,0125,COOK,State Representative District 3A,3A,DFL,ERIC JOHNSON,2,4.55
+69,St. Louis,0125,COOK,State Representative District 3A,3A,DFL,ROB ECKLUND,28,63.64
+69,St. Louis,0125,COOK,State Representative District 3A,3A,DFL,BILL HANSEN,11,25.00
+69,St. Louis,0133,CRANE LAKE TWP.,State Representative District 3A,3A,R,ROGER SKRABA,2,100.00
+69,St. Louis,0133,CRANE LAKE TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,8.33
+69,St. Louis,0133,CRANE LAKE TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,2.78
+69,St. Louis,0133,CRANE LAKE TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,32,88.89
+69,St. Louis,0133,CRANE LAKE TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,0,0.00
+69,St. Louis,0437,EAGLE'S NEST TWP.,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,0437,EAGLE'S NEST TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,15,18.99
+69,St. Louis,0437,EAGLE'S NEST TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,1.27
+69,St. Louis,0437,EAGLE'S NEST TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,18,22.78
+69,St. Louis,0437,EAGLE'S NEST TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,45,56.96
+69,St. Louis,0450,ELY,State Representative District 3A,3A,R,ROGER SKRABA,32,100.00
+69,St. Louis,0450,ELY,State Representative District 3A,3A,DFL,HEIDI OMERZA,202,25.86
+69,St. Louis,0450,ELY,State Representative District 3A,3A,DFL,ERIC JOHNSON,62,7.94
+69,St. Louis,0450,ELY,State Representative District 3A,3A,DFL,ROB ECKLUND,335,42.89
+69,St. Louis,0450,ELY,State Representative District 3A,3A,DFL,BILL HANSEN,182,23.30
+69,St. Louis,0505,FAIRBANKS TWP.,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+69,St. Louis,0505,FAIRBANKS TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+69,St. Louis,0505,FAIRBANKS TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+69,St. Louis,0505,FAIRBANKS TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,0,0.00
+69,St. Louis,0505,FAIRBANKS TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,16,100.00
+69,St. Louis,0515,FIELD TWP.,State Representative District 3A,3A,R,ROGER SKRABA,2,100.00
+69,St. Louis,0515,FIELD TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,1,2.08
+69,St. Louis,0515,FIELD TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,5,10.42
+69,St. Louis,0515,FIELD TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,35,72.92
+69,St. Louis,0515,FIELD TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,7,14.58
+69,St. Louis,0565,GNESEN TWP.,State Representative District 3A,3A,R,ROGER SKRABA,2,100.00
+69,St. Louis,0565,GNESEN TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,5,6.67
+69,St. Louis,0565,GNESEN TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,1.33
+69,St. Louis,0565,GNESEN TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,9,12.00
+69,St. Louis,0565,GNESEN TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,60,80.00
+69,St. Louis,0585,GREENWOOD TWP.,State Representative District 3A,3A,R,ROGER SKRABA,5,100.00
+69,St. Louis,0585,GREENWOOD TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,31,18.02
+69,St. Louis,0585,GREENWOOD TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,6,3.49
+69,St. Louis,0585,GREENWOOD TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,95,55.23
+69,St. Louis,0585,GREENWOOD TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,40,23.26
+69,St. Louis,0780,LEIDING TWP.,State Representative District 3A,3A,R,ROGER SKRABA,4,100.00
+69,St. Louis,0780,LEIDING TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,3.77
+69,St. Louis,0780,LEIDING TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,2,3.77
+69,St. Louis,0780,LEIDING TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,36,67.92
+69,St. Louis,0780,LEIDING TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,13,24.53
+69,St. Louis,0790,LINDEN GROVE TWP.,State Representative District 3A,3A,R,ROGER SKRABA,2,100.00
+69,St. Louis,0790,LINDEN GROVE TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+69,St. Louis,0790,LINDEN GROVE TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,3,15.79
+69,St. Louis,0790,LINDEN GROVE TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,9,47.37
+69,St. Louis,0790,LINDEN GROVE TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,7,36.84
+69,St. Louis,0815,MORSE TWP.,State Representative District 3A,3A,R,ROGER SKRABA,11,100.00
+69,St. Louis,0815,MORSE TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,76,19.00
+69,St. Louis,0815,MORSE TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,28,7.00
+69,St. Louis,0815,MORSE TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,147,36.75
+69,St. Louis,0815,MORSE TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,149,37.25
+69,St. Louis,0821,UNORG. PRCT. 24,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,0821,UNORG. PRCT. 24,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+69,St. Louis,0821,UNORG. PRCT. 24,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+69,St. Louis,0821,UNORG. PRCT. 24,State Representative District 3A,3A,DFL,ROB ECKLUND,2,18.18
+69,St. Louis,0821,UNORG. PRCT. 24,State Representative District 3A,3A,DFL,BILL HANSEN,9,81.82
+69,St. Louis,0852,NORTH STAR TWP.,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+69,St. Louis,0852,NORTH STAR TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,5,16.67
+69,St. Louis,0852,NORTH STAR TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,2,6.67
+69,St. Louis,0852,NORTH STAR TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,3,10.00
+69,St. Louis,0852,NORTH STAR TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,20,66.67
+69,St. Louis,0860,ORR,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+69,St. Louis,0860,ORR,State Representative District 3A,3A,DFL,HEIDI OMERZA,0,0.00
+69,St. Louis,0860,ORR,State Representative District 3A,3A,DFL,ERIC JOHNSON,4,10.53
+69,St. Louis,0860,ORR,State Representative District 3A,3A,DFL,ROB ECKLUND,33,86.84
+69,St. Louis,0860,ORR,State Representative District 3A,3A,DFL,BILL HANSEN,1,2.63
+69,St. Louis,0865,OWENS TWP.,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+69,St. Louis,0865,OWENS TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,8.57
+69,St. Louis,0865,OWENS TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,4,11.43
+69,St. Louis,0865,OWENS TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,25,71.43
+69,St. Louis,0865,OWENS TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,3,8.57
+69,St. Louis,0875,PEQUAYWAN TWP,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+69,St. Louis,0875,PEQUAYWAN TWP,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,5.56
+69,St. Louis,0875,PEQUAYWAN TWP,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,2.78
+69,St. Louis,0875,PEQUAYWAN TWP,State Representative District 3A,3A,DFL,ROB ECKLUND,7,19.44
+69,St. Louis,0875,PEQUAYWAN TWP,State Representative District 3A,3A,DFL,BILL HANSEN,26,72.22
+69,St. Louis,0885,PORTAGE TWP.,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+69,St. Louis,0885,PORTAGE TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,10.00
+69,St. Louis,0885,PORTAGE TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,3,15.00
+69,St. Louis,0885,PORTAGE TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,15,75.00
+69,St. Louis,0885,PORTAGE TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,0,0.00
+69,St. Louis,0940,TOWER P-1,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+69,St. Louis,0940,TOWER P-1,State Representative District 3A,3A,DFL,HEIDI OMERZA,8,14.04
+69,St. Louis,0940,TOWER P-1,State Representative District 3A,3A,DFL,ERIC JOHNSON,8,14.04
+69,St. Louis,0940,TOWER P-1,State Representative District 3A,3A,DFL,ROB ECKLUND,32,56.14
+69,St. Louis,0940,TOWER P-1,State Representative District 3A,3A,DFL,BILL HANSEN,9,15.79
+69,St. Louis,0975,UNORG. PRCT. 9,State Representative District 3A,3A,R,ROGER SKRABA,21,100.00
+69,St. Louis,0975,UNORG. PRCT. 9,State Representative District 3A,3A,DFL,HEIDI OMERZA,30,30.30
+69,St. Louis,0975,UNORG. PRCT. 9,State Representative District 3A,3A,DFL,ERIC JOHNSON,9,9.09
+69,St. Louis,0975,UNORG. PRCT. 9,State Representative District 3A,3A,DFL,ROB ECKLUND,28,28.28
+69,St. Louis,0975,UNORG. PRCT. 9,State Representative District 3A,3A,DFL,BILL HANSEN,32,32.32
+69,St. Louis,0990,UNORG. PRCT. 12,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,0990,UNORG. PRCT. 12,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,60.00
+69,St. Louis,0990,UNORG. PRCT. 12,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,20.00
+69,St. Louis,0990,UNORG. PRCT. 12,State Representative District 3A,3A,DFL,ROB ECKLUND,0,0.00
+69,St. Louis,0990,UNORG. PRCT. 12,State Representative District 3A,3A,DFL,BILL HANSEN,1,20.00
+69,St. Louis,0999,UNORG. PRCT. 11,State Representative District 3A,3A,R,ROGER SKRABA,9,100.00
+69,St. Louis,0999,UNORG. PRCT. 11,State Representative District 3A,3A,DFL,HEIDI OMERZA,4,26.67
+69,St. Louis,0999,UNORG. PRCT. 11,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,6.67
+69,St. Louis,0999,UNORG. PRCT. 11,State Representative District 3A,3A,DFL,ROB ECKLUND,1,6.67
+69,St. Louis,0999,UNORG. PRCT. 11,State Representative District 3A,3A,DFL,BILL HANSEN,9,60.00
+69,St. Louis,1000,UNORG. PRCT. 13,State Representative District 3A,3A,R,ROGER SKRABA,21,100.00
+69,St. Louis,1000,UNORG. PRCT. 13,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,6.90
+69,St. Louis,1000,UNORG. PRCT. 13,State Representative District 3A,3A,DFL,ERIC JOHNSON,4,13.79
+69,St. Louis,1000,UNORG. PRCT. 13,State Representative District 3A,3A,DFL,ROB ECKLUND,15,51.72
+69,St. Louis,1000,UNORG. PRCT. 13,State Representative District 3A,3A,DFL,BILL HANSEN,8,27.59
+69,St. Louis,1001,UNORG. PRCT. 19,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,1001,UNORG. PRCT. 19,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,27.27
+69,St. Louis,1001,UNORG. PRCT. 19,State Representative District 3A,3A,DFL,ERIC JOHNSON,2,18.18
+69,St. Louis,1001,UNORG. PRCT. 19,State Representative District 3A,3A,DFL,ROB ECKLUND,2,18.18
+69,St. Louis,1001,UNORG. PRCT. 19,State Representative District 3A,3A,DFL,BILL HANSEN,4,36.36
+69,St. Louis,1002,UNORG. PRCT. 21,State Representative District 3A,3A,R,ROGER SKRABA,4,100.00
+69,St. Louis,1002,UNORG. PRCT. 21,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,7.69
+69,St. Louis,1002,UNORG. PRCT. 21,State Representative District 3A,3A,DFL,ERIC JOHNSON,5,19.23
+69,St. Louis,1002,UNORG. PRCT. 21,State Representative District 3A,3A,DFL,ROB ECKLUND,14,53.85
+69,St. Louis,1002,UNORG. PRCT. 21,State Representative District 3A,3A,DFL,BILL HANSEN,5,19.23
+69,St. Louis,1005,UNORG. PRCT. 23,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,1005,UNORG. PRCT. 23,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,16.67
+69,St. Louis,1005,UNORG. PRCT. 23,State Representative District 3A,3A,DFL,ERIC JOHNSON,1,8.33
+69,St. Louis,1005,UNORG. PRCT. 23,State Representative District 3A,3A,DFL,ROB ECKLUND,2,16.67
+69,St. Louis,1005,UNORG. PRCT. 23,State Representative District 3A,3A,DFL,BILL HANSEN,7,58.33
+69,St. Louis,1011,CAMP 5 TWP.,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,1011,CAMP 5 TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,33.33
+69,St. Louis,1011,CAMP 5 TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+69,St. Louis,1011,CAMP 5 TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,4,66.67
+69,St. Louis,1011,CAMP 5 TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,0,0.00
+69,St. Louis,1140,WILLOW VALLEY TWP.,State Representative District 3A,3A,R,ROGER SKRABA,1,100.00
+69,St. Louis,1140,WILLOW VALLEY TWP.,State Representative District 3A,3A,DFL,HEIDI OMERZA,2,11.76
+69,St. Louis,1140,WILLOW VALLEY TWP.,State Representative District 3A,3A,DFL,ERIC JOHNSON,0,0.00
+69,St. Louis,1140,WILLOW VALLEY TWP.,State Representative District 3A,3A,DFL,ROB ECKLUND,11,64.71
+69,St. Louis,1140,WILLOW VALLEY TWP.,State Representative District 3A,3A,DFL,BILL HANSEN,4,23.53
+69,St. Louis,1145,WINTON,State Representative District 3A,3A,R,ROGER SKRABA,3,100.00
+69,St. Louis,1145,WINTON,State Representative District 3A,3A,DFL,HEIDI OMERZA,6,16.67
+69,St. Louis,1145,WINTON,State Representative District 3A,3A,DFL,ERIC JOHNSON,6,16.67
+69,St. Louis,1145,WINTON,State Representative District 3A,3A,DFL,ROB ECKLUND,17,47.22
+69,St. Louis,1145,WINTON,State Representative District 3A,3A,DFL,BILL HANSEN,7,19.44
+69,St. Louis,1160,KABETOGAMA TWP,State Representative District 3A,3A,R,ROGER SKRABA,0,0.00
+69,St. Louis,1160,KABETOGAMA TWP,State Representative District 3A,3A,DFL,HEIDI OMERZA,3,7.69
+69,St. Louis,1160,KABETOGAMA TWP,State Representative District 3A,3A,DFL,ERIC JOHNSON,3,7.69
+69,St. Louis,1160,KABETOGAMA TWP,State Representative District 3A,3A,DFL,ROB ECKLUND,31,79.49
+69,St. Louis,1160,KABETOGAMA TWP,State Representative District 3A,3A,DFL,BILL HANSEN,2,5.13

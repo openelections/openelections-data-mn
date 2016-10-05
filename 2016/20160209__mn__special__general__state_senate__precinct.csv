@@ -1,0 +1,113 @@
+county_code,county,precinct_code,precinct,office,district,party,candidate,votes,pct
+02,Anoka,0005,ANDOVER P-1,State Senator District 35,35,R,JIM ABELER,182,72.51
+02,Anoka,0005,ANDOVER P-1,State Senator District 35,35,DFL,ROGER JOHNSON,60,23.90
+02,Anoka,0005,ANDOVER P-1,State Senator District 35,35,LMN,ZACHARY PHELPS,7,2.79
+02,Anoka,0005,ANDOVER P-1,State Senator District 35,35,WI,WRITE-IN**,2,0.80
+02,Anoka,0010,ANDOVER P-2,State Senator District 35,35,R,JIM ABELER,158,79.80
+02,Anoka,0010,ANDOVER P-2,State Senator District 35,35,DFL,ROGER JOHNSON,34,17.17
+02,Anoka,0010,ANDOVER P-2,State Senator District 35,35,LMN,ZACHARY PHELPS,5,2.53
+02,Anoka,0010,ANDOVER P-2,State Senator District 35,35,WI,WRITE-IN**,1,0.51
+02,Anoka,0015,ANDOVER P-3,State Senator District 35,35,R,JIM ABELER,149,72.33
+02,Anoka,0015,ANDOVER P-3,State Senator District 35,35,DFL,ROGER JOHNSON,43,20.87
+02,Anoka,0015,ANDOVER P-3,State Senator District 35,35,LMN,ZACHARY PHELPS,8,3.88
+02,Anoka,0015,ANDOVER P-3,State Senator District 35,35,WI,WRITE-IN**,6,2.91
+02,Anoka,0020,ANDOVER P-4,State Senator District 35,35,R,JIM ABELER,88,72.73
+02,Anoka,0020,ANDOVER P-4,State Senator District 35,35,DFL,ROGER JOHNSON,26,21.49
+02,Anoka,0020,ANDOVER P-4,State Senator District 35,35,LMN,ZACHARY PHELPS,6,4.96
+02,Anoka,0020,ANDOVER P-4,State Senator District 35,35,WI,WRITE-IN**,1,0.83
+02,Anoka,0025,ANDOVER P-5,State Senator District 35,35,R,JIM ABELER,105,74.47
+02,Anoka,0025,ANDOVER P-5,State Senator District 35,35,DFL,ROGER JOHNSON,31,21.99
+02,Anoka,0025,ANDOVER P-5,State Senator District 35,35,LMN,ZACHARY PHELPS,5,3.55
+02,Anoka,0025,ANDOVER P-5,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,0035,ANDOVER P-7,State Senator District 35,35,R,JIM ABELER,49,80.33
+02,Anoka,0035,ANDOVER P-7,State Senator District 35,35,DFL,ROGER JOHNSON,10,16.39
+02,Anoka,0035,ANDOVER P-7,State Senator District 35,35,LMN,ZACHARY PHELPS,0,0.00
+02,Anoka,0035,ANDOVER P-7,State Senator District 35,35,WI,WRITE-IN**,2,3.28
+02,Anoka,0040,ANDOVER P-8,State Senator District 35,35,R,JIM ABELER,98,67.59
+02,Anoka,0040,ANDOVER P-8,State Senator District 35,35,DFL,ROGER JOHNSON,37,25.52
+02,Anoka,0040,ANDOVER P-8,State Senator District 35,35,LMN,ZACHARY PHELPS,9,6.21
+02,Anoka,0040,ANDOVER P-8,State Senator District 35,35,WI,WRITE-IN**,1,0.69
+02,Anoka,0045,ANDOVER P-9,State Senator District 35,35,R,JIM ABELER,82,70.09
+02,Anoka,0045,ANDOVER P-9,State Senator District 35,35,DFL,ROGER JOHNSON,31,26.50
+02,Anoka,0045,ANDOVER P-9,State Senator District 35,35,LMN,ZACHARY PHELPS,4,3.42
+02,Anoka,0045,ANDOVER P-9,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,0050,ANDOVER P-10,State Senator District 35,35,R,JIM ABELER,104,73.24
+02,Anoka,0050,ANDOVER P-10,State Senator District 35,35,DFL,ROGER JOHNSON,34,23.94
+02,Anoka,0050,ANDOVER P-10,State Senator District 35,35,LMN,ZACHARY PHELPS,4,2.82
+02,Anoka,0050,ANDOVER P-10,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,0105,ANOKA P-1,State Senator District 35,35,R,JIM ABELER,90,64.29
+02,Anoka,0105,ANOKA P-1,State Senator District 35,35,DFL,ROGER JOHNSON,37,26.43
+02,Anoka,0105,ANOKA P-1,State Senator District 35,35,LMN,ZACHARY PHELPS,11,7.86
+02,Anoka,0105,ANOKA P-1,State Senator District 35,35,WI,WRITE-IN**,2,1.43
+02,Anoka,0110,ANOKA P-2,State Senator District 35,35,R,JIM ABELER,132,79.52
+02,Anoka,0110,ANOKA P-2,State Senator District 35,35,DFL,ROGER JOHNSON,25,15.06
+02,Anoka,0110,ANOKA P-2,State Senator District 35,35,LMN,ZACHARY PHELPS,9,5.42
+02,Anoka,0110,ANOKA P-2,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,0115,ANOKA P-3,State Senator District 35,35,R,JIM ABELER,141,85.45
+02,Anoka,0115,ANOKA P-3,State Senator District 35,35,DFL,ROGER JOHNSON,19,11.52
+02,Anoka,0115,ANOKA P-3,State Senator District 35,35,LMN,ZACHARY PHELPS,5,3.03
+02,Anoka,0115,ANOKA P-3,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,0120,ANOKA P-4,State Senator District 35,35,R,JIM ABELER,136,74.73
+02,Anoka,0120,ANOKA P-4,State Senator District 35,35,DFL,ROGER JOHNSON,39,21.43
+02,Anoka,0120,ANOKA P-4,State Senator District 35,35,LMN,ZACHARY PHELPS,7,3.85
+02,Anoka,0120,ANOKA P-4,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,0125,ANOKA P-5,State Senator District 35,35,R,JIM ABELER,124,81.05
+02,Anoka,0125,ANOKA P-5,State Senator District 35,35,DFL,ROGER JOHNSON,16,10.46
+02,Anoka,0125,ANOKA P-5,State Senator District 35,35,LMN,ZACHARY PHELPS,12,7.84
+02,Anoka,0125,ANOKA P-5,State Senator District 35,35,WI,WRITE-IN**,1,0.65
+02,Anoka,0130,ANOKA P-6,State Senator District 35,35,R,JIM ABELER,85,69.11
+02,Anoka,0130,ANOKA P-6,State Senator District 35,35,DFL,ROGER JOHNSON,32,26.02
+02,Anoka,0130,ANOKA P-6,State Senator District 35,35,LMN,ZACHARY PHELPS,6,4.88
+02,Anoka,0130,ANOKA P-6,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,0135,ANOKA P-7,State Senator District 35,35,R,JIM ABELER,90,64.29
+02,Anoka,0135,ANOKA P-7,State Senator District 35,35,DFL,ROGER JOHNSON,37,26.43
+02,Anoka,0135,ANOKA P-7,State Senator District 35,35,LMN,ZACHARY PHELPS,13,9.29
+02,Anoka,0135,ANOKA P-7,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,0140,ANOKA P-8,State Senator District 35,35,R,JIM ABELER,93,71.54
+02,Anoka,0140,ANOKA P-8,State Senator District 35,35,DFL,ROGER JOHNSON,24,18.46
+02,Anoka,0140,ANOKA P-8,State Senator District 35,35,LMN,ZACHARY PHELPS,10,7.69
+02,Anoka,0140,ANOKA P-8,State Senator District 35,35,WI,WRITE-IN**,3,2.31
+02,Anoka,1005,COON RAPIDS W-1 P-1,State Senator District 35,35,R,JIM ABELER,183,75.62
+02,Anoka,1005,COON RAPIDS W-1 P-1,State Senator District 35,35,DFL,ROGER JOHNSON,51,21.07
+02,Anoka,1005,COON RAPIDS W-1 P-1,State Senator District 35,35,LMN,ZACHARY PHELPS,6,2.48
+02,Anoka,1005,COON RAPIDS W-1 P-1,State Senator District 35,35,WI,WRITE-IN**,2,0.83
+02,Anoka,1010,COON RAPIDS W-1 P-2,State Senator District 35,35,R,JIM ABELER,156,70.91
+02,Anoka,1010,COON RAPIDS W-1 P-2,State Senator District 35,35,DFL,ROGER JOHNSON,60,27.27
+02,Anoka,1010,COON RAPIDS W-1 P-2,State Senator District 35,35,LMN,ZACHARY PHELPS,4,1.82
+02,Anoka,1010,COON RAPIDS W-1 P-2,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,1105,COON RAPIDS W-2 P-1,State Senator District 35,35,R,JIM ABELER,124,70.06
+02,Anoka,1105,COON RAPIDS W-2 P-1,State Senator District 35,35,DFL,ROGER JOHNSON,49,27.68
+02,Anoka,1105,COON RAPIDS W-2 P-1,State Senator District 35,35,LMN,ZACHARY PHELPS,2,1.13
+02,Anoka,1105,COON RAPIDS W-2 P-1,State Senator District 35,35,WI,WRITE-IN**,2,1.13
+02,Anoka,2605,RAMSEY W-1 P-1,State Senator District 35,35,R,JIM ABELER,186,78.48
+02,Anoka,2605,RAMSEY W-1 P-1,State Senator District 35,35,DFL,ROGER JOHNSON,44,18.57
+02,Anoka,2605,RAMSEY W-1 P-1,State Senator District 35,35,LMN,ZACHARY PHELPS,7,2.95
+02,Anoka,2605,RAMSEY W-1 P-1,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,2610,RAMSEY W-1 P-2,State Senator District 35,35,R,JIM ABELER,43,71.67
+02,Anoka,2610,RAMSEY W-1 P-2,State Senator District 35,35,DFL,ROGER JOHNSON,15,25.00
+02,Anoka,2610,RAMSEY W-1 P-2,State Senator District 35,35,LMN,ZACHARY PHELPS,2,3.33
+02,Anoka,2610,RAMSEY W-1 P-2,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,2705,RAMSEY W-2 P-1,State Senator District 35,35,R,JIM ABELER,81,67.50
+02,Anoka,2705,RAMSEY W-2 P-1,State Senator District 35,35,DFL,ROGER JOHNSON,23,19.17
+02,Anoka,2705,RAMSEY W-2 P-1,State Senator District 35,35,LMN,ZACHARY PHELPS,16,13.33
+02,Anoka,2705,RAMSEY W-2 P-1,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,2710,RAMSEY W-2 P-2,State Senator District 35,35,R,JIM ABELER,169,71.91
+02,Anoka,2710,RAMSEY W-2 P-2,State Senator District 35,35,DFL,ROGER JOHNSON,59,25.11
+02,Anoka,2710,RAMSEY W-2 P-2,State Senator District 35,35,LMN,ZACHARY PHELPS,6,2.55
+02,Anoka,2710,RAMSEY W-2 P-2,State Senator District 35,35,WI,WRITE-IN**,1,0.43
+02,Anoka,2805,RAMSEY W-3 P-1,State Senator District 35,35,R,JIM ABELER,103,76.30
+02,Anoka,2805,RAMSEY W-3 P-1,State Senator District 35,35,DFL,ROGER JOHNSON,24,17.78
+02,Anoka,2805,RAMSEY W-3 P-1,State Senator District 35,35,LMN,ZACHARY PHELPS,6,4.44
+02,Anoka,2805,RAMSEY W-3 P-1,State Senator District 35,35,WI,WRITE-IN**,2,1.48
+02,Anoka,2810,RAMSEY W-3 P-2,State Senator District 35,35,R,JIM ABELER,58,73.42
+02,Anoka,2810,RAMSEY W-3 P-2,State Senator District 35,35,DFL,ROGER JOHNSON,15,18.99
+02,Anoka,2810,RAMSEY W-3 P-2,State Senator District 35,35,LMN,ZACHARY PHELPS,6,7.59
+02,Anoka,2810,RAMSEY W-3 P-2,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,2905,RAMSEY W-4 P-1,State Senator District 35,35,R,JIM ABELER,83,64.34
+02,Anoka,2905,RAMSEY W-4 P-1,State Senator District 35,35,DFL,ROGER JOHNSON,43,33.33
+02,Anoka,2905,RAMSEY W-4 P-1,State Senator District 35,35,LMN,ZACHARY PHELPS,3,2.33
+02,Anoka,2905,RAMSEY W-4 P-1,State Senator District 35,35,WI,WRITE-IN**,0,0.00
+02,Anoka,2910,RAMSEY W-4 P-2,State Senator District 35,35,R,JIM ABELER,145,81.46
+02,Anoka,2910,RAMSEY W-4 P-2,State Senator District 35,35,DFL,ROGER JOHNSON,29,16.29
+02,Anoka,2910,RAMSEY W-4 P-2,State Senator District 35,35,LMN,ZACHARY PHELPS,1,0.56
+02,Anoka,2910,RAMSEY W-4 P-2,State Senator District 35,35,WI,WRITE-IN**,3,1.69
