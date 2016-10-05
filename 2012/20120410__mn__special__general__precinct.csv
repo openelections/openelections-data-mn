@@ -1,0 +1,781 @@
+county_code,county,precinct_code,precinct,office,district,party,candidate,votes,pct
+06,Big Stone,0005,AITKIN,State Senator District 20,20,IP,LEON GREENSLIT,1,2.381
+06,Big Stone,0005,AITKIN,State Senator District 20,20,R,GREGG KULBERG,12,28.5714
+06,Big Stone,0005,AITKIN,State Senator District 20,20,DFL,LYLE KOENEN,29,69.0476
+06,Big Stone,0005,AITKIN,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0010,AITKIN TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+06,Big Stone,0010,AITKIN TWP,State Senator District 20,20,R,GREGG KULBERG,6,37.5
+06,Big Stone,0010,AITKIN TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,62.5
+06,Big Stone,0010,AITKIN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0015,BALL BLUFF TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,7.6923
+06,Big Stone,0015,BALL BLUFF TWP,State Senator District 20,20,R,GREGG KULBERG,8,30.7692
+06,Big Stone,0015,BALL BLUFF TWP,State Senator District 20,20,DFL,LYLE KOENEN,16,61.5385
+06,Big Stone,0015,BALL BLUFF TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0020,BALSAM TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+06,Big Stone,0020,BALSAM TWP,State Senator District 20,20,R,GREGG KULBERG,0,0
+06,Big Stone,0020,BALSAM TWP,State Senator District 20,20,DFL,LYLE KOENEN,7,100
+06,Big Stone,0020,BALSAM TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0025,BEAVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,2.439
+06,Big Stone,0025,BEAVER TWP,State Senator District 20,20,R,GREGG KULBERG,21,51.2195
+06,Big Stone,0025,BEAVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,19,46.3415
+06,Big Stone,0025,BEAVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0030,CLARK TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,5.7143
+06,Big Stone,0030,CLARK TWP,State Senator District 20,20,R,GREGG KULBERG,14,40
+06,Big Stone,0030,CLARK TWP,State Senator District 20,20,DFL,LYLE KOENEN,19,54.2857
+06,Big Stone,0030,CLARK TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0031,BEARDSLEY,State Senator District 20,20,IP,LEON GREENSLIT,2,5.5556
+06,Big Stone,0031,BEARDSLEY,State Senator District 20,20,R,GREGG KULBERG,4,11.1111
+06,Big Stone,0031,BEARDSLEY,State Senator District 20,20,DFL,LYLE KOENEN,30,83.3333
+06,Big Stone,0031,BEARDSLEY,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0035,CORNISH TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.3333
+06,Big Stone,0035,CORNISH TWP,State Senator District 20,20,R,GREGG KULBERG,9,30
+06,Big Stone,0035,CORNISH TWP,State Senator District 20,20,DFL,LYLE KOENEN,20,66.6667
+06,Big Stone,0035,CORNISH TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0040,FARM ISLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+06,Big Stone,0040,FARM ISLAND TWP,State Senator District 20,20,R,GREGG KULBERG,0,0
+06,Big Stone,0040,FARM ISLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,4,100
+06,Big Stone,0040,FARM ISLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0045,FLEMING TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,2.5
+06,Big Stone,0045,FLEMING TWP,State Senator District 20,20,R,GREGG KULBERG,16,40
+06,Big Stone,0045,FLEMING TWP,State Senator District 20,20,DFL,LYLE KOENEN,23,57.5
+06,Big Stone,0045,FLEMING TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0050,GLEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,2.0833
+06,Big Stone,0050,GLEN TWP,State Senator District 20,20,R,GREGG KULBERG,23,47.9167
+06,Big Stone,0050,GLEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,24,50
+06,Big Stone,0050,GLEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0055,HAUGEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+06,Big Stone,0055,HAUGEN TWP,State Senator District 20,20,R,GREGG KULBERG,13,59.0909
+06,Big Stone,0055,HAUGEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,9,40.9091
+06,Big Stone,0055,HAUGEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0056,MINDEN TWP P-2,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+06,Big Stone,0056,MINDEN TWP P-2,State Senator District 20,20,R,GREGG KULBERG,0,0
+06,Big Stone,0056,MINDEN TWP P-2,State Senator District 20,20,DFL,LYLE KOENEN,2,100
+06,Big Stone,0056,MINDEN TWP P-2,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0060,HAZELTON TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,6.6667
+06,Big Stone,0060,HAZELTON TWP,State Senator District 20,20,R,GREGG KULBERG,7,46.6667
+06,Big Stone,0060,HAZELTON TWP,State Senator District 20,20,DFL,LYLE KOENEN,7,46.6667
+06,Big Stone,0060,HAZELTON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0065,HILL CITY,State Senator District 20,20,IP,LEON GREENSLIT,2,9.0909
+06,Big Stone,0065,HILL CITY,State Senator District 20,20,R,GREGG KULBERG,13,59.0909
+06,Big Stone,0065,HILL CITY,State Senator District 20,20,DFL,LYLE KOENEN,7,31.8182
+06,Big Stone,0065,HILL CITY,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0070,HILL LAKE TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.4483
+06,Big Stone,0070,HILL LAKE TWP,State Senator District 20,20,R,GREGG KULBERG,21,72.4138
+06,Big Stone,0070,HILL LAKE TWP,State Senator District 20,20,DFL,LYLE KOENEN,6,20.6897
+06,Big Stone,0070,HILL LAKE TWP,State Senator District 20,20,WI,WRITE-IN**,1,3.4483
+06,Big Stone,0075,IDUN TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,8.3333
+06,Big Stone,0075,IDUN TWP,State Senator District 20,20,R,GREGG KULBERG,10,41.6667
+06,Big Stone,0075,IDUN TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,50
+06,Big Stone,0075,IDUN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0080,JEVNE TWP,State Senator District 20,20,IP,LEON GREENSLIT,4,3.0303
+06,Big Stone,0080,JEVNE TWP,State Senator District 20,20,R,GREGG KULBERG,68,51.5152
+06,Big Stone,0080,JEVNE TWP,State Senator District 20,20,DFL,LYLE KOENEN,60,45.4545
+06,Big Stone,0080,JEVNE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0085,KIMBERLY TWP,State Senator District 20,20,IP,LEON GREENSLIT,5,7.0423
+06,Big Stone,0085,KIMBERLY TWP,State Senator District 20,20,R,GREGG KULBERG,36,50.7042
+06,Big Stone,0085,KIMBERLY TWP,State Senator District 20,20,DFL,LYLE KOENEN,30,42.2535
+06,Big Stone,0085,KIMBERLY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0086,ORTONVILLE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+06,Big Stone,0086,ORTONVILLE TWP,State Senator District 20,20,R,GREGG KULBERG,13,52
+06,Big Stone,0086,ORTONVILLE TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,48
+06,Big Stone,0086,ORTONVILLE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0090,LAKESIDE TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,11.1111
+06,Big Stone,0090,LAKESIDE TWP,State Senator District 20,20,R,GREGG KULBERG,6,33.3333
+06,Big Stone,0090,LAKESIDE TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,55.5556
+06,Big Stone,0090,LAKESIDE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0095,LEE TWP,State Senator District 20,20,IP,LEON GREENSLIT,3,6
+06,Big Stone,0095,LEE TWP,State Senator District 20,20,R,GREGG KULBERG,16,32
+06,Big Stone,0095,LEE TWP,State Senator District 20,20,DFL,LYLE KOENEN,31,62
+06,Big Stone,0095,LEE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+06,Big Stone,0100,LIBBY TWP E,State Senator District 20,20,IP,LEON GREENSLIT,1,14.2857
+06,Big Stone,0100,LIBBY TWP E,State Senator District 20,20,R,GREGG KULBERG,4,57.1429
+06,Big Stone,0100,LIBBY TWP E,State Senator District 20,20,DFL,LYLE KOENEN,2,28.5714
+06,Big Stone,0100,LIBBY TWP E,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0005,AITKIN,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0005,AITKIN,State Senator District 20,20,R,GREGG KULBERG,2,4.7619
+12,Chippewa,0005,AITKIN,State Senator District 20,20,DFL,LYLE KOENEN,40,95.2381
+12,Chippewa,0005,AITKIN,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0010,AITKIN TWP,State Senator District 20,20,IP,LEON GREENSLIT,5,3.5971
+12,Chippewa,0010,AITKIN TWP,State Senator District 20,20,R,GREGG KULBERG,41,29.4964
+12,Chippewa,0010,AITKIN TWP,State Senator District 20,20,DFL,LYLE KOENEN,93,66.9065
+12,Chippewa,0010,AITKIN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0015,BALL BLUFF TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0015,BALL BLUFF TWP,State Senator District 20,20,R,GREGG KULBERG,2,12.5
+12,Chippewa,0015,BALL BLUFF TWP,State Senator District 20,20,DFL,LYLE KOENEN,14,87.5
+12,Chippewa,0015,BALL BLUFF TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0020,BALSAM TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0020,BALSAM TWP,State Senator District 20,20,R,GREGG KULBERG,9,45
+12,Chippewa,0020,BALSAM TWP,State Senator District 20,20,DFL,LYLE KOENEN,11,55
+12,Chippewa,0020,BALSAM TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0025,BEAVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,0.9804
+12,Chippewa,0025,BEAVER TWP,State Senator District 20,20,R,GREGG KULBERG,18,17.6471
+12,Chippewa,0025,BEAVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,83,81.3725
+12,Chippewa,0025,BEAVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0030,CLARK TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,6.6667
+12,Chippewa,0030,CLARK TWP,State Senator District 20,20,R,GREGG KULBERG,11,36.6667
+12,Chippewa,0030,CLARK TWP,State Senator District 20,20,DFL,LYLE KOENEN,17,56.6667
+12,Chippewa,0030,CLARK TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0035,CORNISH TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,4.2553
+12,Chippewa,0035,CORNISH TWP,State Senator District 20,20,R,GREGG KULBERG,7,14.8936
+12,Chippewa,0035,CORNISH TWP,State Senator District 20,20,DFL,LYLE KOENEN,38,80.8511
+12,Chippewa,0035,CORNISH TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0040,FARM ISLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.0303
+12,Chippewa,0040,FARM ISLAND TWP,State Senator District 20,20,R,GREGG KULBERG,0,0
+12,Chippewa,0040,FARM ISLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,32,96.9697
+12,Chippewa,0040,FARM ISLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0045,FLEMING TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0045,FLEMING TWP,State Senator District 20,20,R,GREGG KULBERG,17,48.5714
+12,Chippewa,0045,FLEMING TWP,State Senator District 20,20,DFL,LYLE KOENEN,18,51.4286
+12,Chippewa,0045,FLEMING TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0050,GLEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0050,GLEN TWP,State Senator District 20,20,R,GREGG KULBERG,1,9.0909
+12,Chippewa,0050,GLEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,90.9091
+12,Chippewa,0050,GLEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0055,HAUGEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,4
+12,Chippewa,0055,HAUGEN TWP,State Senator District 20,20,R,GREGG KULBERG,5,20
+12,Chippewa,0055,HAUGEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,19,76
+12,Chippewa,0055,HAUGEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0060,HAZELTON TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0060,HAZELTON TWP,State Senator District 20,20,R,GREGG KULBERG,6,23.0769
+12,Chippewa,0060,HAZELTON TWP,State Senator District 20,20,DFL,LYLE KOENEN,20,76.9231
+12,Chippewa,0060,HAZELTON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0065,HILL CITY,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0065,HILL CITY,State Senator District 20,20,R,GREGG KULBERG,6,20.6897
+12,Chippewa,0065,HILL CITY,State Senator District 20,20,DFL,LYLE KOENEN,23,79.3103
+12,Chippewa,0065,HILL CITY,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0070,HILL LAKE TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,1.8182
+12,Chippewa,0070,HILL LAKE TWP,State Senator District 20,20,R,GREGG KULBERG,8,14.5455
+12,Chippewa,0070,HILL LAKE TWP,State Senator District 20,20,DFL,LYLE KOENEN,46,83.6364
+12,Chippewa,0070,HILL LAKE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0075,IDUN TWP,State Senator District 20,20,IP,LEON GREENSLIT,4,1.8433
+12,Chippewa,0075,IDUN TWP,State Senator District 20,20,R,GREGG KULBERG,70,32.2581
+12,Chippewa,0075,IDUN TWP,State Senator District 20,20,DFL,LYLE KOENEN,143,65.8986
+12,Chippewa,0075,IDUN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0090,LAKESIDE TWP,State Senator District 20,20,IP,LEON GREENSLIT,3,1.4493
+12,Chippewa,0090,LAKESIDE TWP,State Senator District 20,20,R,GREGG KULBERG,79,38.1643
+12,Chippewa,0090,LAKESIDE TWP,State Senator District 20,20,DFL,LYLE KOENEN,125,60.3865
+12,Chippewa,0090,LAKESIDE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0105,LIBBY TWP W,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0105,LIBBY TWP W,State Senator District 20,20,R,GREGG KULBERG,16,100
+12,Chippewa,0105,LIBBY TWP W,State Senator District 20,20,DFL,LYLE KOENEN,0,0
+12,Chippewa,0105,LIBBY TWP W,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0110,LOGAN TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0110,LOGAN TWP,State Senator District 20,20,R,GREGG KULBERG,22,64.7059
+12,Chippewa,0110,LOGAN TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,35.2941
+12,Chippewa,0110,LOGAN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0115,MCGRATH,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0115,MCGRATH,State Senator District 20,20,R,GREGG KULBERG,36,37.8947
+12,Chippewa,0115,MCGRATH,State Senator District 20,20,DFL,LYLE KOENEN,59,62.1053
+12,Chippewa,0115,MCGRATH,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0120,MCGREGOR,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0120,MCGREGOR,State Senator District 20,20,R,GREGG KULBERG,14,35.8974
+12,Chippewa,0120,MCGREGOR,State Senator District 20,20,DFL,LYLE KOENEN,25,64.1026
+12,Chippewa,0120,MCGREGOR,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0125,MCGREGOR TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0125,MCGREGOR TWP,State Senator District 20,20,R,GREGG KULBERG,11,35.4839
+12,Chippewa,0125,MCGREGOR TWP,State Senator District 20,20,DFL,LYLE KOENEN,20,64.5161
+12,Chippewa,0125,MCGREGOR TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0130,MACVILLE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0130,MACVILLE TWP,State Senator District 20,20,R,GREGG KULBERG,4,11.1111
+12,Chippewa,0130,MACVILLE TWP,State Senator District 20,20,DFL,LYLE KOENEN,32,88.8889
+12,Chippewa,0130,MACVILLE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+12,Chippewa,0135,MALMO TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+12,Chippewa,0135,MALMO TWP,State Senator District 20,20,R,GREGG KULBERG,20,62.5
+12,Chippewa,0135,MALMO TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,37.5
+12,Chippewa,0135,MALMO TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0005,AITKIN,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0005,AITKIN,State Senator District 20,20,R,GREGG KULBERG,9,50
+37,Lac Qui Parle,0005,AITKIN,State Senator District 20,20,DFL,LYLE KOENEN,9,50
+37,Lac Qui Parle,0005,AITKIN,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0010,AITKIN TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0010,AITKIN TWP,State Senator District 20,20,R,GREGG KULBERG,3,75
+37,Lac Qui Parle,0010,AITKIN TWP,State Senator District 20,20,DFL,LYLE KOENEN,1,25
+37,Lac Qui Parle,0010,AITKIN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0015,BALL BLUFF TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0015,BALL BLUFF TWP,State Senator District 20,20,R,GREGG KULBERG,5,35.7143
+37,Lac Qui Parle,0015,BALL BLUFF TWP,State Senator District 20,20,DFL,LYLE KOENEN,9,64.2857
+37,Lac Qui Parle,0015,BALL BLUFF TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0020,BALSAM TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.7037
+37,Lac Qui Parle,0020,BALSAM TWP,State Senator District 20,20,R,GREGG KULBERG,4,14.8148
+37,Lac Qui Parle,0020,BALSAM TWP,State Senator District 20,20,DFL,LYLE KOENEN,22,81.4815
+37,Lac Qui Parle,0020,BALSAM TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0025,BEAVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0025,BEAVER TWP,State Senator District 20,20,R,GREGG KULBERG,15,45.4545
+37,Lac Qui Parle,0025,BEAVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,18,54.5455
+37,Lac Qui Parle,0025,BEAVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0030,CLARK TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.8462
+37,Lac Qui Parle,0030,CLARK TWP,State Senator District 20,20,R,GREGG KULBERG,1,3.8462
+37,Lac Qui Parle,0030,CLARK TWP,State Senator District 20,20,DFL,LYLE KOENEN,24,92.3077
+37,Lac Qui Parle,0030,CLARK TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0035,CORNISH TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0035,CORNISH TWP,State Senator District 20,20,R,GREGG KULBERG,20,55.5556
+37,Lac Qui Parle,0035,CORNISH TWP,State Senator District 20,20,DFL,LYLE KOENEN,16,44.4444
+37,Lac Qui Parle,0035,CORNISH TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0040,FARM ISLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0040,FARM ISLAND TWP,State Senator District 20,20,R,GREGG KULBERG,6,23.0769
+37,Lac Qui Parle,0040,FARM ISLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,20,76.9231
+37,Lac Qui Parle,0040,FARM ISLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0045,FLEMING TWP,State Senator District 20,20,IP,LEON GREENSLIT,3,2.1429
+37,Lac Qui Parle,0045,FLEMING TWP,State Senator District 20,20,R,GREGG KULBERG,28,20
+37,Lac Qui Parle,0045,FLEMING TWP,State Senator District 20,20,DFL,LYLE KOENEN,109,77.8571
+37,Lac Qui Parle,0045,FLEMING TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0060,HAZELTON TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0060,HAZELTON TWP,State Senator District 20,20,R,GREGG KULBERG,4,28.5714
+37,Lac Qui Parle,0060,HAZELTON TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,71.4286
+37,Lac Qui Parle,0060,HAZELTON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0065,HILL CITY,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0065,HILL CITY,State Senator District 20,20,R,GREGG KULBERG,5,27.7778
+37,Lac Qui Parle,0065,HILL CITY,State Senator District 20,20,DFL,LYLE KOENEN,13,72.2222
+37,Lac Qui Parle,0065,HILL CITY,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0070,HILL LAKE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0070,HILL LAKE TWP,State Senator District 20,20,R,GREGG KULBERG,11,40.7407
+37,Lac Qui Parle,0070,HILL LAKE TWP,State Senator District 20,20,DFL,LYLE KOENEN,16,59.2593
+37,Lac Qui Parle,0070,HILL LAKE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0075,IDUN TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,4.1667
+37,Lac Qui Parle,0075,IDUN TWP,State Senator District 20,20,R,GREGG KULBERG,10,41.6667
+37,Lac Qui Parle,0075,IDUN TWP,State Senator District 20,20,DFL,LYLE KOENEN,13,54.1667
+37,Lac Qui Parle,0075,IDUN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0080,JEVNE TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,6.0606
+37,Lac Qui Parle,0080,JEVNE TWP,State Senator District 20,20,R,GREGG KULBERG,10,30.303
+37,Lac Qui Parle,0080,JEVNE TWP,State Senator District 20,20,DFL,LYLE KOENEN,21,63.6364
+37,Lac Qui Parle,0080,JEVNE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0085,KIMBERLY TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,2.6316
+37,Lac Qui Parle,0085,KIMBERLY TWP,State Senator District 20,20,R,GREGG KULBERG,8,21.0526
+37,Lac Qui Parle,0085,KIMBERLY TWP,State Senator District 20,20,DFL,LYLE KOENEN,29,76.3158
+37,Lac Qui Parle,0085,KIMBERLY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0090,LAKESIDE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0090,LAKESIDE TWP,State Senator District 20,20,R,GREGG KULBERG,4,33.3333
+37,Lac Qui Parle,0090,LAKESIDE TWP,State Senator District 20,20,DFL,LYLE KOENEN,8,66.6667
+37,Lac Qui Parle,0090,LAKESIDE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0095,LEE TWP,State Senator District 20,20,IP,LEON GREENSLIT,5,3.4247
+37,Lac Qui Parle,0095,LEE TWP,State Senator District 20,20,R,GREGG KULBERG,67,45.8904
+37,Lac Qui Parle,0095,LEE TWP,State Senator District 20,20,DFL,LYLE KOENEN,74,50.6849
+37,Lac Qui Parle,0095,LEE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0110,LOGAN TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0110,LOGAN TWP,State Senator District 20,20,R,GREGG KULBERG,13,40.625
+37,Lac Qui Parle,0110,LOGAN TWP,State Senator District 20,20,DFL,LYLE KOENEN,19,59.375
+37,Lac Qui Parle,0110,LOGAN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0115,MCGRATH,State Senator District 20,20,IP,LEON GREENSLIT,1,11.1111
+37,Lac Qui Parle,0115,MCGRATH,State Senator District 20,20,R,GREGG KULBERG,0,0
+37,Lac Qui Parle,0115,MCGRATH,State Senator District 20,20,DFL,LYLE KOENEN,8,88.8889
+37,Lac Qui Parle,0115,MCGRATH,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0120,MCGREGOR,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0120,MCGREGOR,State Senator District 20,20,R,GREGG KULBERG,8,40
+37,Lac Qui Parle,0120,MCGREGOR,State Senator District 20,20,DFL,LYLE KOENEN,12,60
+37,Lac Qui Parle,0120,MCGREGOR,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0125,MCGREGOR TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,7.6923
+37,Lac Qui Parle,0125,MCGREGOR TWP,State Senator District 20,20,R,GREGG KULBERG,9,34.6154
+37,Lac Qui Parle,0125,MCGREGOR TWP,State Senator District 20,20,DFL,LYLE KOENEN,15,57.6923
+37,Lac Qui Parle,0125,MCGREGOR TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0130,MACVILLE TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,8.3333
+37,Lac Qui Parle,0130,MACVILLE TWP,State Senator District 20,20,R,GREGG KULBERG,4,33.3333
+37,Lac Qui Parle,0130,MACVILLE TWP,State Senator District 20,20,DFL,LYLE KOENEN,7,58.3333
+37,Lac Qui Parle,0130,MACVILLE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0135,MALMO TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0135,MALMO TWP,State Senator District 20,20,R,GREGG KULBERG,6,54.5455
+37,Lac Qui Parle,0135,MALMO TWP,State Senator District 20,20,DFL,LYLE KOENEN,5,45.4545
+37,Lac Qui Parle,0135,MALMO TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0140,MORRISON TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,5.8824
+37,Lac Qui Parle,0140,MORRISON TWP,State Senator District 20,20,R,GREGG KULBERG,8,47.0588
+37,Lac Qui Parle,0140,MORRISON TWP,State Senator District 20,20,DFL,LYLE KOENEN,8,47.0588
+37,Lac Qui Parle,0140,MORRISON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0145,NORDLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0145,NORDLAND TWP,State Senator District 20,20,R,GREGG KULBERG,18,47.3684
+37,Lac Qui Parle,0145,NORDLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,20,52.6316
+37,Lac Qui Parle,0145,NORDLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0150,PALISADE,State Senator District 20,20,IP,LEON GREENSLIT,4,9.7561
+37,Lac Qui Parle,0150,PALISADE,State Senator District 20,20,R,GREGG KULBERG,14,34.1463
+37,Lac Qui Parle,0150,PALISADE,State Senator District 20,20,DFL,LYLE KOENEN,23,56.0976
+37,Lac Qui Parle,0150,PALISADE,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0155,PLINY TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.4483
+37,Lac Qui Parle,0155,PLINY TWP,State Senator District 20,20,R,GREGG KULBERG,8,27.5862
+37,Lac Qui Parle,0155,PLINY TWP,State Senator District 20,20,DFL,LYLE KOENEN,20,68.9655
+37,Lac Qui Parle,0155,PLINY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0160,RICE RIVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,6.8966
+37,Lac Qui Parle,0160,RICE RIVER TWP,State Senator District 20,20,R,GREGG KULBERG,17,58.6207
+37,Lac Qui Parle,0160,RICE RIVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,34.4828
+37,Lac Qui Parle,0160,RICE RIVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+37,Lac Qui Parle,0165,SALO TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+37,Lac Qui Parle,0165,SALO TWP,State Senator District 20,20,R,GREGG KULBERG,4,40
+37,Lac Qui Parle,0165,SALO TWP,State Senator District 20,20,DFL,LYLE KOENEN,6,60
+37,Lac Qui Parle,0165,SALO TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0005,AITKIN,State Senator District 20,20,IP,LEON GREENSLIT,1,3.3333
+41,Lincoln,0005,AITKIN,State Senator District 20,20,R,GREGG KULBERG,17,56.6667
+41,Lincoln,0005,AITKIN,State Senator District 20,20,DFL,LYLE KOENEN,12,40
+41,Lincoln,0005,AITKIN,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0010,AITKIN TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,10
+41,Lincoln,0010,AITKIN TWP,State Senator District 20,20,R,GREGG KULBERG,1,10
+41,Lincoln,0010,AITKIN TWP,State Senator District 20,20,DFL,LYLE KOENEN,8,80
+41,Lincoln,0010,AITKIN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0015,BALL BLUFF TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,9.5238
+41,Lincoln,0015,BALL BLUFF TWP,State Senator District 20,20,R,GREGG KULBERG,6,28.5714
+41,Lincoln,0015,BALL BLUFF TWP,State Senator District 20,20,DFL,LYLE KOENEN,13,61.9048
+41,Lincoln,0015,BALL BLUFF TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0020,BALSAM TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+41,Lincoln,0020,BALSAM TWP,State Senator District 20,20,R,GREGG KULBERG,7,77.7778
+41,Lincoln,0020,BALSAM TWP,State Senator District 20,20,DFL,LYLE KOENEN,2,22.2222
+41,Lincoln,0020,BALSAM TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0025,BEAVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,7.6923
+41,Lincoln,0025,BEAVER TWP,State Senator District 20,20,R,GREGG KULBERG,11,84.6154
+41,Lincoln,0025,BEAVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,1,7.6923
+41,Lincoln,0025,BEAVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0030,CLARK TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+41,Lincoln,0030,CLARK TWP,State Senator District 20,20,R,GREGG KULBERG,5,29.4118
+41,Lincoln,0030,CLARK TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,70.5882
+41,Lincoln,0030,CLARK TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0035,CORNISH TWP,State Senator District 20,20,IP,LEON GREENSLIT,4,7.0175
+41,Lincoln,0035,CORNISH TWP,State Senator District 20,20,R,GREGG KULBERG,37,64.9123
+41,Lincoln,0035,CORNISH TWP,State Senator District 20,20,DFL,LYLE KOENEN,16,28.0702
+41,Lincoln,0035,CORNISH TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0040,FARM ISLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,5.5556
+41,Lincoln,0040,FARM ISLAND TWP,State Senator District 20,20,R,GREGG KULBERG,15,83.3333
+41,Lincoln,0040,FARM ISLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,1,5.5556
+41,Lincoln,0040,FARM ISLAND TWP,State Senator District 20,20,WI,WRITE-IN**,1,5.5556
+41,Lincoln,0045,FLEMING TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+41,Lincoln,0045,FLEMING TWP,State Senator District 20,20,R,GREGG KULBERG,13,61.9048
+41,Lincoln,0045,FLEMING TWP,State Senator District 20,20,DFL,LYLE KOENEN,8,38.0952
+41,Lincoln,0045,FLEMING TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0050,GLEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,4,8.6957
+41,Lincoln,0050,GLEN TWP,State Senator District 20,20,R,GREGG KULBERG,20,43.4783
+41,Lincoln,0050,GLEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,22,47.8261
+41,Lincoln,0050,GLEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0055,HAUGEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,4
+41,Lincoln,0055,HAUGEN TWP,State Senator District 20,20,R,GREGG KULBERG,31,62
+41,Lincoln,0055,HAUGEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,17,34
+41,Lincoln,0055,HAUGEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0060,HAZELTON TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,8.3333
+41,Lincoln,0060,HAZELTON TWP,State Senator District 20,20,R,GREGG KULBERG,9,75
+41,Lincoln,0060,HAZELTON TWP,State Senator District 20,20,DFL,LYLE KOENEN,2,16.6667
+41,Lincoln,0060,HAZELTON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0065,HILL CITY,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+41,Lincoln,0065,HILL CITY,State Senator District 20,20,R,GREGG KULBERG,2,20
+41,Lincoln,0065,HILL CITY,State Senator District 20,20,DFL,LYLE KOENEN,8,80
+41,Lincoln,0065,HILL CITY,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0070,HILL LAKE TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,5.5556
+41,Lincoln,0070,HILL LAKE TWP,State Senator District 20,20,R,GREGG KULBERG,12,66.6667
+41,Lincoln,0070,HILL LAKE TWP,State Senator District 20,20,DFL,LYLE KOENEN,5,27.7778
+41,Lincoln,0070,HILL LAKE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0075,IDUN TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+41,Lincoln,0075,IDUN TWP,State Senator District 20,20,R,GREGG KULBERG,1,8.3333
+41,Lincoln,0075,IDUN TWP,State Senator District 20,20,DFL,LYLE KOENEN,11,91.6667
+41,Lincoln,0075,IDUN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0080,JEVNE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+41,Lincoln,0080,JEVNE TWP,State Senator District 20,20,R,GREGG KULBERG,8,53.3333
+41,Lincoln,0080,JEVNE TWP,State Senator District 20,20,DFL,LYLE KOENEN,7,46.6667
+41,Lincoln,0080,JEVNE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0085,KIMBERLY TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+41,Lincoln,0085,KIMBERLY TWP,State Senator District 20,20,R,GREGG KULBERG,6,60
+41,Lincoln,0085,KIMBERLY TWP,State Senator District 20,20,DFL,LYLE KOENEN,4,40
+41,Lincoln,0085,KIMBERLY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0090,LAKESIDE TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,4.5455
+41,Lincoln,0090,LAKESIDE TWP,State Senator District 20,20,R,GREGG KULBERG,12,54.5455
+41,Lincoln,0090,LAKESIDE TWP,State Senator District 20,20,DFL,LYLE KOENEN,9,40.9091
+41,Lincoln,0090,LAKESIDE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0095,LEE TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,3.3898
+41,Lincoln,0095,LEE TWP,State Senator District 20,20,R,GREGG KULBERG,24,40.678
+41,Lincoln,0095,LEE TWP,State Senator District 20,20,DFL,LYLE KOENEN,33,55.9322
+41,Lincoln,0095,LEE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+41,Lincoln,0100,LIBBY TWP E,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+41,Lincoln,0100,LIBBY TWP E,State Senator District 20,20,R,GREGG KULBERG,6,75
+41,Lincoln,0100,LIBBY TWP E,State Senator District 20,20,DFL,LYLE KOENEN,2,25
+41,Lincoln,0100,LIBBY TWP E,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0005,AITKIN,State Senator District 20,20,IP,LEON GREENSLIT,3,30
+65,Renville,0005,AITKIN,State Senator District 20,20,R,GREGG KULBERG,5,50
+65,Renville,0005,AITKIN,State Senator District 20,20,DFL,LYLE KOENEN,2,20
+65,Renville,0005,AITKIN,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0010,AITKIN TWP,State Senator District 20,20,IP,LEON GREENSLIT,8,28.5714
+65,Renville,0010,AITKIN TWP,State Senator District 20,20,R,GREGG KULBERG,14,50
+65,Renville,0010,AITKIN TWP,State Senator District 20,20,DFL,LYLE KOENEN,6,21.4286
+65,Renville,0010,AITKIN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0015,BALL BLUFF TWP,State Senator District 20,20,IP,LEON GREENSLIT,18,39.1304
+65,Renville,0015,BALL BLUFF TWP,State Senator District 20,20,R,GREGG KULBERG,10,21.7391
+65,Renville,0015,BALL BLUFF TWP,State Senator District 20,20,DFL,LYLE KOENEN,18,39.1304
+65,Renville,0015,BALL BLUFF TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0020,BALSAM TWP,State Senator District 20,20,IP,LEON GREENSLIT,10,8.6207
+65,Renville,0020,BALSAM TWP,State Senator District 20,20,R,GREGG KULBERG,55,47.4138
+65,Renville,0020,BALSAM TWP,State Senator District 20,20,DFL,LYLE KOENEN,51,43.9655
+65,Renville,0020,BALSAM TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0025,BEAVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,11,42.3077
+65,Renville,0025,BEAVER TWP,State Senator District 20,20,R,GREGG KULBERG,5,19.2308
+65,Renville,0025,BEAVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,38.4615
+65,Renville,0025,BEAVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0030,CLARK TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0030,CLARK TWP,State Senator District 20,20,R,GREGG KULBERG,25,80.6452
+65,Renville,0030,CLARK TWP,State Senator District 20,20,DFL,LYLE KOENEN,6,19.3548
+65,Renville,0030,CLARK TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0035,CORNISH TWP,State Senator District 20,20,IP,LEON GREENSLIT,3,10
+65,Renville,0035,CORNISH TWP,State Senator District 20,20,R,GREGG KULBERG,26,86.6667
+65,Renville,0035,CORNISH TWP,State Senator District 20,20,DFL,LYLE KOENEN,1,3.3333
+65,Renville,0035,CORNISH TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0040,FARM ISLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,3,7.1429
+65,Renville,0040,FARM ISLAND TWP,State Senator District 20,20,R,GREGG KULBERG,29,69.0476
+65,Renville,0040,FARM ISLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,23.8095
+65,Renville,0040,FARM ISLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0045,FLEMING TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0045,FLEMING TWP,State Senator District 20,20,R,GREGG KULBERG,13,72.2222
+65,Renville,0045,FLEMING TWP,State Senator District 20,20,DFL,LYLE KOENEN,5,27.7778
+65,Renville,0045,FLEMING TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0050,GLEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,10
+65,Renville,0050,GLEN TWP,State Senator District 20,20,R,GREGG KULBERG,10,50
+65,Renville,0050,GLEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,8,40
+65,Renville,0050,GLEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0055,HAUGEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,3,7.6923
+65,Renville,0055,HAUGEN TWP,State Senator District 20,20,R,GREGG KULBERG,25,64.1026
+65,Renville,0055,HAUGEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,11,28.2051
+65,Renville,0055,HAUGEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0060,HAZELTON TWP,State Senator District 20,20,IP,LEON GREENSLIT,6,11.7647
+65,Renville,0060,HAZELTON TWP,State Senator District 20,20,R,GREGG KULBERG,19,37.2549
+65,Renville,0060,HAZELTON TWP,State Senator District 20,20,DFL,LYLE KOENEN,26,50.9804
+65,Renville,0060,HAZELTON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0065,HILL CITY,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0065,HILL CITY,State Senator District 20,20,R,GREGG KULBERG,8,38.0952
+65,Renville,0065,HILL CITY,State Senator District 20,20,DFL,LYLE KOENEN,13,61.9048
+65,Renville,0065,HILL CITY,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0070,HILL LAKE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0070,HILL LAKE TWP,State Senator District 20,20,R,GREGG KULBERG,13,34.2105
+65,Renville,0070,HILL LAKE TWP,State Senator District 20,20,DFL,LYLE KOENEN,25,65.7895
+65,Renville,0070,HILL LAKE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0075,IDUN TWP,State Senator District 20,20,IP,LEON GREENSLIT,5,9.2593
+65,Renville,0075,IDUN TWP,State Senator District 20,20,R,GREGG KULBERG,31,57.4074
+65,Renville,0075,IDUN TWP,State Senator District 20,20,DFL,LYLE KOENEN,18,33.3333
+65,Renville,0075,IDUN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0080,JEVNE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0080,JEVNE TWP,State Senator District 20,20,R,GREGG KULBERG,26,70.2703
+65,Renville,0080,JEVNE TWP,State Senator District 20,20,DFL,LYLE KOENEN,11,29.7297
+65,Renville,0080,JEVNE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0085,KIMBERLY TWP,State Senator District 20,20,IP,LEON GREENSLIT,13,43.3333
+65,Renville,0085,KIMBERLY TWP,State Senator District 20,20,R,GREGG KULBERG,8,26.6667
+65,Renville,0085,KIMBERLY TWP,State Senator District 20,20,DFL,LYLE KOENEN,9,30
+65,Renville,0085,KIMBERLY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0090,LAKESIDE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0090,LAKESIDE TWP,State Senator District 20,20,R,GREGG KULBERG,5,13.5135
+65,Renville,0090,LAKESIDE TWP,State Senator District 20,20,DFL,LYLE KOENEN,32,86.4865
+65,Renville,0090,LAKESIDE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0095,LEE TWP,State Senator District 20,20,IP,LEON GREENSLIT,10,7.0922
+65,Renville,0095,LEE TWP,State Senator District 20,20,R,GREGG KULBERG,96,68.0851
+65,Renville,0095,LEE TWP,State Senator District 20,20,DFL,LYLE KOENEN,35,24.8227
+65,Renville,0095,LEE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0100,LIBBY TWP E,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0100,LIBBY TWP E,State Senator District 20,20,R,GREGG KULBERG,18,85.7143
+65,Renville,0100,LIBBY TWP E,State Senator District 20,20,DFL,LYLE KOENEN,3,14.2857
+65,Renville,0100,LIBBY TWP E,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0105,LIBBY TWP W,State Senator District 20,20,IP,LEON GREENSLIT,6,22.2222
+65,Renville,0105,LIBBY TWP W,State Senator District 20,20,R,GREGG KULBERG,11,40.7407
+65,Renville,0105,LIBBY TWP W,State Senator District 20,20,DFL,LYLE KOENEN,10,37.037
+65,Renville,0105,LIBBY TWP W,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0110,LOGAN TWP,State Senator District 20,20,IP,LEON GREENSLIT,5,18.5185
+65,Renville,0110,LOGAN TWP,State Senator District 20,20,R,GREGG KULBERG,8,29.6296
+65,Renville,0110,LOGAN TWP,State Senator District 20,20,DFL,LYLE KOENEN,14,51.8519
+65,Renville,0110,LOGAN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0115,MCGRATH,State Senator District 20,20,IP,LEON GREENSLIT,4,17.3913
+65,Renville,0115,MCGRATH,State Senator District 20,20,R,GREGG KULBERG,13,56.5217
+65,Renville,0115,MCGRATH,State Senator District 20,20,DFL,LYLE KOENEN,6,26.087
+65,Renville,0115,MCGRATH,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0120,MCGREGOR,State Senator District 20,20,IP,LEON GREENSLIT,12,44.4444
+65,Renville,0120,MCGREGOR,State Senator District 20,20,R,GREGG KULBERG,13,48.1481
+65,Renville,0120,MCGREGOR,State Senator District 20,20,DFL,LYLE KOENEN,2,7.4074
+65,Renville,0120,MCGREGOR,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0125,MCGREGOR TWP,State Senator District 20,20,IP,LEON GREENSLIT,21,60
+65,Renville,0125,MCGREGOR TWP,State Senator District 20,20,R,GREGG KULBERG,7,20
+65,Renville,0125,MCGREGOR TWP,State Senator District 20,20,DFL,LYLE KOENEN,7,20
+65,Renville,0125,MCGREGOR TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0130,MACVILLE TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,7.4074
+65,Renville,0130,MACVILLE TWP,State Senator District 20,20,R,GREGG KULBERG,13,48.1481
+65,Renville,0130,MACVILLE TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,44.4444
+65,Renville,0130,MACVILLE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0135,MALMO TWP,State Senator District 20,20,IP,LEON GREENSLIT,30,16.129
+65,Renville,0135,MALMO TWP,State Senator District 20,20,R,GREGG KULBERG,85,45.6989
+65,Renville,0135,MALMO TWP,State Senator District 20,20,DFL,LYLE KOENEN,71,38.172
+65,Renville,0135,MALMO TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0140,MORRISON TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0140,MORRISON TWP,State Senator District 20,20,R,GREGG KULBERG,18,90
+65,Renville,0140,MORRISON TWP,State Senator District 20,20,DFL,LYLE KOENEN,2,10
+65,Renville,0140,MORRISON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0145,NORDLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,2.5
+65,Renville,0145,NORDLAND TWP,State Senator District 20,20,R,GREGG KULBERG,26,65
+65,Renville,0145,NORDLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,13,32.5
+65,Renville,0145,NORDLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0150,PALISADE,State Senator District 20,20,IP,LEON GREENSLIT,9,26.4706
+65,Renville,0150,PALISADE,State Senator District 20,20,R,GREGG KULBERG,24,70.5882
+65,Renville,0150,PALISADE,State Senator District 20,20,DFL,LYLE KOENEN,1,2.9412
+65,Renville,0150,PALISADE,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0152,TODD TWP. P-2,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0152,TODD TWP. P-2,State Senator District 20,20,R,GREGG KULBERG,0,0
+65,Renville,0152,TODD TWP. P-2,State Senator District 20,20,DFL,LYLE KOENEN,0,0
+65,Renville,0152,TODD TWP. P-2,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0155,PLINY TWP,State Senator District 20,20,IP,LEON GREENSLIT,7,7.2917
+65,Renville,0155,PLINY TWP,State Senator District 20,20,R,GREGG KULBERG,34,35.4167
+65,Renville,0155,PLINY TWP,State Senator District 20,20,DFL,LYLE KOENEN,55,57.2917
+65,Renville,0155,PLINY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0160,RICE RIVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,3.7736
+65,Renville,0160,RICE RIVER TWP,State Senator District 20,20,R,GREGG KULBERG,14,26.4151
+65,Renville,0160,RICE RIVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,37,69.8113
+65,Renville,0160,RICE RIVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0165,SALO TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,5.5556
+65,Renville,0165,SALO TWP,State Senator District 20,20,R,GREGG KULBERG,12,33.3333
+65,Renville,0165,SALO TWP,State Senator District 20,20,DFL,LYLE KOENEN,22,61.1111
+65,Renville,0165,SALO TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0170,SEAVEY TWP,State Senator District 20,20,IP,LEON GREENSLIT,6,22.2222
+65,Renville,0170,SEAVEY TWP,State Senator District 20,20,R,GREGG KULBERG,6,22.2222
+65,Renville,0170,SEAVEY TWP,State Senator District 20,20,DFL,LYLE KOENEN,15,55.5556
+65,Renville,0170,SEAVEY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0175,SHAMROCK TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+65,Renville,0175,SHAMROCK TWP,State Senator District 20,20,R,GREGG KULBERG,10,27.027
+65,Renville,0175,SHAMROCK TWP,State Senator District 20,20,DFL,LYLE KOENEN,27,72.973
+65,Renville,0175,SHAMROCK TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0180,SPALDING TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,5
+65,Renville,0180,SPALDING TWP,State Senator District 20,20,R,GREGG KULBERG,14,70
+65,Renville,0180,SPALDING TWP,State Senator District 20,20,DFL,LYLE KOENEN,5,25
+65,Renville,0180,SPALDING TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+65,Renville,0185,SPENCER TWP,State Senator District 20,20,IP,LEON GREENSLIT,6,20
+65,Renville,0185,SPENCER TWP,State Senator District 20,20,R,GREGG KULBERG,11,36.6667
+65,Renville,0185,SPENCER TWP,State Senator District 20,20,DFL,LYLE KOENEN,13,43.3333
+65,Renville,0185,SPENCER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0005,AITKIN,State Senator District 20,20,IP,LEON GREENSLIT,2,2.2727
+76,Swift,0005,AITKIN,State Senator District 20,20,R,GREGG KULBERG,24,27.2727
+76,Swift,0005,AITKIN,State Senator District 20,20,DFL,LYLE KOENEN,61,69.3182
+76,Swift,0005,AITKIN,State Senator District 20,20,WI,WRITE-IN**,1,1.1364
+76,Swift,0007,BAXTER P2E,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0007,BAXTER P2E,State Senator District 20,20,R,GREGG KULBERG,8,20
+76,Swift,0007,BAXTER P2E,State Senator District 20,20,DFL,LYLE KOENEN,32,80
+76,Swift,0007,BAXTER P2E,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0010,AITKIN TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,3.2258
+76,Swift,0010,AITKIN TWP,State Senator District 20,20,R,GREGG KULBERG,23,37.0968
+76,Swift,0010,AITKIN TWP,State Senator District 20,20,DFL,LYLE KOENEN,37,59.6774
+76,Swift,0010,AITKIN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0015,BALL BLUFF TWP,State Senator District 20,20,IP,LEON GREENSLIT,5,4.8544
+76,Swift,0015,BALL BLUFF TWP,State Senator District 20,20,R,GREGG KULBERG,27,26.2136
+76,Swift,0015,BALL BLUFF TWP,State Senator District 20,20,DFL,LYLE KOENEN,71,68.932
+76,Swift,0015,BALL BLUFF TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0020,BALSAM TWP,State Senator District 20,20,IP,LEON GREENSLIT,3,2.0134
+76,Swift,0020,BALSAM TWP,State Senator District 20,20,R,GREGG KULBERG,61,40.9396
+76,Swift,0020,BALSAM TWP,State Senator District 20,20,DFL,LYLE KOENEN,85,57.047
+76,Swift,0020,BALSAM TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0025,BEAVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.0303
+76,Swift,0025,BEAVER TWP,State Senator District 20,20,R,GREGG KULBERG,11,33.3333
+76,Swift,0025,BEAVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,21,63.6364
+76,Swift,0025,BEAVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0030,CLARK TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0030,CLARK TWP,State Senator District 20,20,R,GREGG KULBERG,4,7.6923
+76,Swift,0030,CLARK TWP,State Senator District 20,20,DFL,LYLE KOENEN,48,92.3077
+76,Swift,0030,CLARK TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0035,CORNISH TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0035,CORNISH TWP,State Senator District 20,20,R,GREGG KULBERG,19,47.5
+76,Swift,0035,CORNISH TWP,State Senator District 20,20,DFL,LYLE KOENEN,21,52.5
+76,Swift,0035,CORNISH TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0040,FARM ISLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.2258
+76,Swift,0040,FARM ISLAND TWP,State Senator District 20,20,R,GREGG KULBERG,14,45.1613
+76,Swift,0040,FARM ISLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,16,51.6129
+76,Swift,0040,FARM ISLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0045,FLEMING TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0045,FLEMING TWP,State Senator District 20,20,R,GREGG KULBERG,4,28.5714
+76,Swift,0045,FLEMING TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,71.4286
+76,Swift,0045,FLEMING TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0050,GLEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,6.6667
+76,Swift,0050,GLEN TWP,State Senator District 20,20,R,GREGG KULBERG,5,33.3333
+76,Swift,0050,GLEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,9,60
+76,Swift,0050,GLEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0055,HAUGEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,9.0909
+76,Swift,0055,HAUGEN TWP,State Senator District 20,20,R,GREGG KULBERG,3,27.2727
+76,Swift,0055,HAUGEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,7,63.6364
+76,Swift,0055,HAUGEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0060,HAZELTON TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0060,HAZELTON TWP,State Senator District 20,20,R,GREGG KULBERG,17,45.9459
+76,Swift,0060,HAZELTON TWP,State Senator District 20,20,DFL,LYLE KOENEN,20,54.0541
+76,Swift,0060,HAZELTON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0065,HILL CITY,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0065,HILL CITY,State Senator District 20,20,R,GREGG KULBERG,11,37.931
+76,Swift,0065,HILL CITY,State Senator District 20,20,DFL,LYLE KOENEN,18,62.069
+76,Swift,0065,HILL CITY,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0070,HILL LAKE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0070,HILL LAKE TWP,State Senator District 20,20,R,GREGG KULBERG,11,36.6667
+76,Swift,0070,HILL LAKE TWP,State Senator District 20,20,DFL,LYLE KOENEN,19,63.3333
+76,Swift,0070,HILL LAKE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0075,IDUN TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,5.1282
+76,Swift,0075,IDUN TWP,State Senator District 20,20,R,GREGG KULBERG,16,41.0256
+76,Swift,0075,IDUN TWP,State Senator District 20,20,DFL,LYLE KOENEN,21,53.8462
+76,Swift,0075,IDUN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0080,JEVNE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0080,JEVNE TWP,State Senator District 20,20,R,GREGG KULBERG,7,28
+76,Swift,0080,JEVNE TWP,State Senator District 20,20,DFL,LYLE KOENEN,18,72
+76,Swift,0080,JEVNE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0085,KIMBERLY TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0085,KIMBERLY TWP,State Senator District 20,20,R,GREGG KULBERG,1,7.6923
+76,Swift,0085,KIMBERLY TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,92.3077
+76,Swift,0085,KIMBERLY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0090,LAKESIDE TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,1.2048
+76,Swift,0090,LAKESIDE TWP,State Senator District 20,20,R,GREGG KULBERG,38,45.7831
+76,Swift,0090,LAKESIDE TWP,State Senator District 20,20,DFL,LYLE KOENEN,44,53.012
+76,Swift,0090,LAKESIDE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0095,LEE TWP,State Senator District 20,20,IP,LEON GREENSLIT,3,5.6604
+76,Swift,0095,LEE TWP,State Senator District 20,20,R,GREGG KULBERG,13,24.5283
+76,Swift,0095,LEE TWP,State Senator District 20,20,DFL,LYLE KOENEN,37,69.8113
+76,Swift,0095,LEE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0100,LIBBY TWP E,State Senator District 20,20,IP,LEON GREENSLIT,1,10
+76,Swift,0100,LIBBY TWP E,State Senator District 20,20,R,GREGG KULBERG,5,50
+76,Swift,0100,LIBBY TWP E,State Senator District 20,20,DFL,LYLE KOENEN,4,40
+76,Swift,0100,LIBBY TWP E,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0105,LIBBY TWP W,State Senator District 20,20,IP,LEON GREENSLIT,1,6.6667
+76,Swift,0105,LIBBY TWP W,State Senator District 20,20,R,GREGG KULBERG,2,13.3333
+76,Swift,0105,LIBBY TWP W,State Senator District 20,20,DFL,LYLE KOENEN,12,80
+76,Swift,0105,LIBBY TWP W,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0110,LOGAN TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,4.3478
+76,Swift,0110,LOGAN TWP,State Senator District 20,20,R,GREGG KULBERG,2,8.6957
+76,Swift,0110,LOGAN TWP,State Senator District 20,20,DFL,LYLE KOENEN,20,86.9565
+76,Swift,0110,LOGAN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0115,MCGRATH,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0115,MCGRATH,State Senator District 20,20,R,GREGG KULBERG,9,34.6154
+76,Swift,0115,MCGRATH,State Senator District 20,20,DFL,LYLE KOENEN,17,65.3846
+76,Swift,0115,MCGRATH,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0120,MCGREGOR,State Senator District 20,20,IP,LEON GREENSLIT,1,2.7778
+76,Swift,0120,MCGREGOR,State Senator District 20,20,R,GREGG KULBERG,20,55.5556
+76,Swift,0120,MCGREGOR,State Senator District 20,20,DFL,LYLE KOENEN,15,41.6667
+76,Swift,0120,MCGREGOR,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0125,MCGREGOR TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.2258
+76,Swift,0125,MCGREGOR TWP,State Senator District 20,20,R,GREGG KULBERG,17,54.8387
+76,Swift,0125,MCGREGOR TWP,State Senator District 20,20,DFL,LYLE KOENEN,13,41.9355
+76,Swift,0125,MCGREGOR TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0130,MACVILLE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0130,MACVILLE TWP,State Senator District 20,20,R,GREGG KULBERG,9,40.9091
+76,Swift,0130,MACVILLE TWP,State Senator District 20,20,DFL,LYLE KOENEN,13,59.0909
+76,Swift,0130,MACVILLE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0135,MALMO TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0135,MALMO TWP,State Senator District 20,20,R,GREGG KULBERG,10,35.7143
+76,Swift,0135,MALMO TWP,State Senator District 20,20,DFL,LYLE KOENEN,18,64.2857
+76,Swift,0135,MALMO TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0140,MORRISON TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0140,MORRISON TWP,State Senator District 20,20,R,GREGG KULBERG,6,28.5714
+76,Swift,0140,MORRISON TWP,State Senator District 20,20,DFL,LYLE KOENEN,15,71.4286
+76,Swift,0140,MORRISON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0145,NORDLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,4.878
+76,Swift,0145,NORDLAND TWP,State Senator District 20,20,R,GREGG KULBERG,27,65.8537
+76,Swift,0145,NORDLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,29.2683
+76,Swift,0145,NORDLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+76,Swift,0150,PALISADE,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+76,Swift,0150,PALISADE,State Senator District 20,20,R,GREGG KULBERG,3,18.75
+76,Swift,0150,PALISADE,State Senator District 20,20,DFL,LYLE KOENEN,13,81.25
+76,Swift,0150,PALISADE,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0005,AITKIN,State Senator District 20,20,IP,LEON GREENSLIT,1,7.6923
+87,Yellow Medicine,0005,AITKIN,State Senator District 20,20,R,GREGG KULBERG,6,46.1538
+87,Yellow Medicine,0005,AITKIN,State Senator District 20,20,DFL,LYLE KOENEN,6,46.1538
+87,Yellow Medicine,0005,AITKIN,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0010,AITKIN TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0010,AITKIN TWP,State Senator District 20,20,R,GREGG KULBERG,24,51.0638
+87,Yellow Medicine,0010,AITKIN TWP,State Senator District 20,20,DFL,LYLE KOENEN,23,48.9362
+87,Yellow Medicine,0010,AITKIN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0015,BALL BLUFF TWP,State Senator District 20,20,IP,LEON GREENSLIT,4,7.6923
+87,Yellow Medicine,0015,BALL BLUFF TWP,State Senator District 20,20,R,GREGG KULBERG,30,57.6923
+87,Yellow Medicine,0015,BALL BLUFF TWP,State Senator District 20,20,DFL,LYLE KOENEN,18,34.6154
+87,Yellow Medicine,0015,BALL BLUFF TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0020,BALSAM TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,3.0769
+87,Yellow Medicine,0020,BALSAM TWP,State Senator District 20,20,R,GREGG KULBERG,25,38.4615
+87,Yellow Medicine,0020,BALSAM TWP,State Senator District 20,20,DFL,LYLE KOENEN,38,58.4615
+87,Yellow Medicine,0020,BALSAM TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0025,BEAVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,6.25
+87,Yellow Medicine,0025,BEAVER TWP,State Senator District 20,20,R,GREGG KULBERG,5,31.25
+87,Yellow Medicine,0025,BEAVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,62.5
+87,Yellow Medicine,0025,BEAVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0030,CLARK TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,6.6667
+87,Yellow Medicine,0030,CLARK TWP,State Senator District 20,20,R,GREGG KULBERG,10,66.6667
+87,Yellow Medicine,0030,CLARK TWP,State Senator District 20,20,DFL,LYLE KOENEN,4,26.6667
+87,Yellow Medicine,0030,CLARK TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0035,CORNISH TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0035,CORNISH TWP,State Senator District 20,20,R,GREGG KULBERG,7,77.7778
+87,Yellow Medicine,0035,CORNISH TWP,State Senator District 20,20,DFL,LYLE KOENEN,2,22.2222
+87,Yellow Medicine,0035,CORNISH TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0040,FARM ISLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0040,FARM ISLAND TWP,State Senator District 20,20,R,GREGG KULBERG,8,57.1429
+87,Yellow Medicine,0040,FARM ISLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,6,42.8571
+87,Yellow Medicine,0040,FARM ISLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0045,FLEMING TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0045,FLEMING TWP,State Senator District 20,20,R,GREGG KULBERG,14,60.8696
+87,Yellow Medicine,0045,FLEMING TWP,State Senator District 20,20,DFL,LYLE KOENEN,9,39.1304
+87,Yellow Medicine,0045,FLEMING TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0050,GLEN TWP,State Senator District 20,20,IP,LEON GREENSLIT,4,2.1277
+87,Yellow Medicine,0050,GLEN TWP,State Senator District 20,20,R,GREGG KULBERG,40,21.2766
+87,Yellow Medicine,0050,GLEN TWP,State Senator District 20,20,DFL,LYLE KOENEN,144,76.5957
+87,Yellow Medicine,0050,GLEN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0065,HILL CITY,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0065,HILL CITY,State Senator District 20,20,R,GREGG KULBERG,32,80
+87,Yellow Medicine,0065,HILL CITY,State Senator District 20,20,DFL,LYLE KOENEN,8,20
+87,Yellow Medicine,0065,HILL CITY,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0070,HILL LAKE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0070,HILL LAKE TWP,State Senator District 20,20,R,GREGG KULBERG,4,36.3636
+87,Yellow Medicine,0070,HILL LAKE TWP,State Senator District 20,20,DFL,LYLE KOENEN,7,63.6364
+87,Yellow Medicine,0070,HILL LAKE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0075,IDUN TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0075,IDUN TWP,State Senator District 20,20,R,GREGG KULBERG,0,0
+87,Yellow Medicine,0075,IDUN TWP,State Senator District 20,20,DFL,LYLE KOENEN,7,100
+87,Yellow Medicine,0075,IDUN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0080,JEVNE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0080,JEVNE TWP,State Senator District 20,20,R,GREGG KULBERG,18,58.0645
+87,Yellow Medicine,0080,JEVNE TWP,State Senator District 20,20,DFL,LYLE KOENEN,13,41.9355
+87,Yellow Medicine,0080,JEVNE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0085,KIMBERLY TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,5.5556
+87,Yellow Medicine,0085,KIMBERLY TWP,State Senator District 20,20,R,GREGG KULBERG,5,27.7778
+87,Yellow Medicine,0085,KIMBERLY TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,66.6667
+87,Yellow Medicine,0085,KIMBERLY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0090,LAKESIDE TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,2.0833
+87,Yellow Medicine,0090,LAKESIDE TWP,State Senator District 20,20,R,GREGG KULBERG,18,37.5
+87,Yellow Medicine,0090,LAKESIDE TWP,State Senator District 20,20,DFL,LYLE KOENEN,29,60.4167
+87,Yellow Medicine,0090,LAKESIDE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0095,LEE TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,3.7037
+87,Yellow Medicine,0095,LEE TWP,State Senator District 20,20,R,GREGG KULBERG,23,85.1852
+87,Yellow Medicine,0095,LEE TWP,State Senator District 20,20,DFL,LYLE KOENEN,3,11.1111
+87,Yellow Medicine,0095,LEE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0100,LIBBY TWP E,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0100,LIBBY TWP E,State Senator District 20,20,R,GREGG KULBERG,7,35
+87,Yellow Medicine,0100,LIBBY TWP E,State Senator District 20,20,DFL,LYLE KOENEN,13,65
+87,Yellow Medicine,0100,LIBBY TWP E,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0105,LIBBY TWP W,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0105,LIBBY TWP W,State Senator District 20,20,R,GREGG KULBERG,9,69.2308
+87,Yellow Medicine,0105,LIBBY TWP W,State Senator District 20,20,DFL,LYLE KOENEN,4,30.7692
+87,Yellow Medicine,0105,LIBBY TWP W,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0110,LOGAN TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,4.1667
+87,Yellow Medicine,0110,LOGAN TWP,State Senator District 20,20,R,GREGG KULBERG,11,45.8333
+87,Yellow Medicine,0110,LOGAN TWP,State Senator District 20,20,DFL,LYLE KOENEN,12,50
+87,Yellow Medicine,0110,LOGAN TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0115,MCGRATH,State Senator District 20,20,IP,LEON GREENSLIT,1,10
+87,Yellow Medicine,0115,MCGRATH,State Senator District 20,20,R,GREGG KULBERG,2,20
+87,Yellow Medicine,0115,MCGRATH,State Senator District 20,20,DFL,LYLE KOENEN,7,70
+87,Yellow Medicine,0115,MCGRATH,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0120,MCGREGOR,State Senator District 20,20,IP,LEON GREENSLIT,3,7.8947
+87,Yellow Medicine,0120,MCGREGOR,State Senator District 20,20,R,GREGG KULBERG,23,60.5263
+87,Yellow Medicine,0120,MCGREGOR,State Senator District 20,20,DFL,LYLE KOENEN,12,31.5789
+87,Yellow Medicine,0120,MCGREGOR,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0125,MCGREGOR TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,13.3333
+87,Yellow Medicine,0125,MCGREGOR TWP,State Senator District 20,20,R,GREGG KULBERG,6,40
+87,Yellow Medicine,0125,MCGREGOR TWP,State Senator District 20,20,DFL,LYLE KOENEN,7,46.6667
+87,Yellow Medicine,0125,MCGREGOR TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0130,MACVILLE TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0130,MACVILLE TWP,State Senator District 20,20,R,GREGG KULBERG,9,50
+87,Yellow Medicine,0130,MACVILLE TWP,State Senator District 20,20,DFL,LYLE KOENEN,9,50
+87,Yellow Medicine,0130,MACVILLE TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0135,MALMO TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0135,MALMO TWP,State Senator District 20,20,R,GREGG KULBERG,21,65.625
+87,Yellow Medicine,0135,MALMO TWP,State Senator District 20,20,DFL,LYLE KOENEN,11,34.375
+87,Yellow Medicine,0135,MALMO TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0140,MORRISON TWP,State Senator District 20,20,IP,LEON GREENSLIT,1,1.5385
+87,Yellow Medicine,0140,MORRISON TWP,State Senator District 20,20,R,GREGG KULBERG,37,56.9231
+87,Yellow Medicine,0140,MORRISON TWP,State Senator District 20,20,DFL,LYLE KOENEN,27,41.5385
+87,Yellow Medicine,0140,MORRISON TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0145,NORDLAND TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0145,NORDLAND TWP,State Senator District 20,20,R,GREGG KULBERG,4,66.6667
+87,Yellow Medicine,0145,NORDLAND TWP,State Senator District 20,20,DFL,LYLE KOENEN,2,33.3333
+87,Yellow Medicine,0145,NORDLAND TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0150,PALISADE,State Senator District 20,20,IP,LEON GREENSLIT,1,4.7619
+87,Yellow Medicine,0150,PALISADE,State Senator District 20,20,R,GREGG KULBERG,8,38.0952
+87,Yellow Medicine,0150,PALISADE,State Senator District 20,20,DFL,LYLE KOENEN,12,57.1429
+87,Yellow Medicine,0150,PALISADE,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0155,PLINY TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0155,PLINY TWP,State Senator District 20,20,R,GREGG KULBERG,5,33.3333
+87,Yellow Medicine,0155,PLINY TWP,State Senator District 20,20,DFL,LYLE KOENEN,10,66.6667
+87,Yellow Medicine,0155,PLINY TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0160,RICE RIVER TWP,State Senator District 20,20,IP,LEON GREENSLIT,2,8
+87,Yellow Medicine,0160,RICE RIVER TWP,State Senator District 20,20,R,GREGG KULBERG,9,36
+87,Yellow Medicine,0160,RICE RIVER TWP,State Senator District 20,20,DFL,LYLE KOENEN,14,56
+87,Yellow Medicine,0160,RICE RIVER TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
+87,Yellow Medicine,0165,SALO TWP,State Senator District 20,20,IP,LEON GREENSLIT,0,0
+87,Yellow Medicine,0165,SALO TWP,State Senator District 20,20,R,GREGG KULBERG,18,41.8605
+87,Yellow Medicine,0165,SALO TWP,State Senator District 20,20,DFL,LYLE KOENEN,25,58.1395
+87,Yellow Medicine,0165,SALO TWP,State Senator District 20,20,WI,WRITE-IN**,0,0
