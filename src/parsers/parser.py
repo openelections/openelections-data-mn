@@ -1,5 +1,5 @@
 import requests
-import unicodecsv as csv
+import csv
 
 def generate_candidates(url):
     candidates = []
@@ -15,7 +15,7 @@ def generate_candidates(url):
 
 def counties():
     counties = []
-    r = requests.get("https://electionresults.sos.state.mn.us/Results/MediaSupportResult/114?mediafileid=6")
+    r = requests.get("https://electionresults.sos.state.mn.us/Results/MediaSupportResult/115?mediafileid=6")
     lines = r.text.split('\r\n')
     for line in lines:
         try:
@@ -27,7 +27,7 @@ def counties():
 
 def precincts():
     precincts = []
-    r = requests.get("https://electionresults.sos.state.mn.us/Results/MediaSupportResult/114?mediafileid=4")
+    r = requests.get("https://electionresults.sos.state.mn.us/Results/MediaSupportResult/115?mediafileid=4")
     lines = r.text.split('\r\n')
     for line in lines:
         try:
@@ -52,17 +52,17 @@ def parse_file(url, counties, precincts):
     return results
 
 def write_csv(results):
-    filename = '20180814__mn__primary__precinct.csv'
-    with open(filename, 'wb') as csvfile:
-         w = csv.writer(csvfile, encoding='utf-8', quoting=csv.QUOTE_NONNUMERIC)
+    filename = '201801106__mn__general__precinct.csv'
+    with open(filename, 'w') as csvfile:
+         w = csv.writer(csvfile, quoting=csv.QUOTE_NONNUMERIC)
          w.writerow(['county_code', 'county', 'precinct_code', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'pct'])
          for row in results:
             w.writerow([row['county_code'], row['county'], row['precinct_code'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], row['votes'], row['pct']])
 
 
 if __name__ == "__main__":
-    url = 'https://electionresults.sos.state.mn.us/Results/MediaResult/114?mediafileid=13'
-    candidates = generate_candidates('https://electionresults.sos.state.mn.us/Results/MediaSupportResult/114?mediafileid=82')
+    url = 'https://electionresults.sos.state.mn.us/Results/MediaResult/115?mediafileid=13'
+    candidates = generate_candidates('https://electionresults.sos.state.mn.us/Results/MediaSupportResult/115?mediafileid=82')
     counties = counties()
     precincts = precincts()
     results = parse_file(url, counties, precincts)
