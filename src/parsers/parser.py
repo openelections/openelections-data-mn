@@ -45,7 +45,7 @@ def parse_file(url, counties, precincts):
         result = line.split(';')
         try:
             county = [x['county'] for x in counties if result[1] == x['county_code']][0]
-            precinct = [x['precinct_name'] for x in precincts if result[2] == x['precinct_code']][0]
+            precinct = [x['precinct_name'] for x in precincts if result[2] == x['precinct_code'] and result[1] == x['county_code']][0]
             results.append({"county_code": result[1], "county": county, "precinct_code": result[2], "precinct": precinct, "office_code": result[3], "office": result[4], "district": result[5], "candidate_code": result[6], "candidate": result[7], "party": result[10], "votes": result[13], "pct": result[14]})
         except:
             pass
