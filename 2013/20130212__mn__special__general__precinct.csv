@@ -3,22 +3,22 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 07,Blue Earth,0075,LIME TWP,State Representative District 19A,19A,R,ALLEN QUIST,57,44.19
 07,Blue Earth,0075,LIME TWP,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,57,44.19
 07,Blue Earth,0075,LIME TWP,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
-07,Blue Earth,0100,MANKATO  W-05 P-01,State Representative District 19A,19A,IP,TIM GIESEKE,4,4.65
-07,Blue Earth,0100,MANKATO  W-05 P-01,State Representative District 19A,19A,R,ALLEN QUIST,26,30.23
-07,Blue Earth,0100,MANKATO  W-05 P-01,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,56,65.12
-07,Blue Earth,0100,MANKATO  W-05 P-01,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
-07,Blue Earth,0105,MANKATO  W-05 P-02,State Representative District 19A,19A,IP,TIM GIESEKE,0,0.00
-07,Blue Earth,0105,MANKATO  W-05 P-02,State Representative District 19A,19A,R,ALLEN QUIST,7,38.89
-07,Blue Earth,0105,MANKATO  W-05 P-02,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,11,61.11
-07,Blue Earth,0105,MANKATO  W-05 P-02,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
-07,Blue Earth,0170,MANKATO  W-02 P-16,State Representative District 19A,19A,IP,TIM GIESEKE,5,3.70
-07,Blue Earth,0170,MANKATO  W-02 P-16,State Representative District 19A,19A,R,ALLEN QUIST,54,40.00
-07,Blue Earth,0170,MANKATO  W-02 P-16,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,76,56.30
-07,Blue Earth,0170,MANKATO  W-02 P-16,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
-07,Blue Earth,0175,MANKATO  W-02 P-17,State Representative District 19A,19A,IP,TIM GIESEKE,0,0.00
-07,Blue Earth,0175,MANKATO  W-02 P-17,State Representative District 19A,19A,R,ALLEN QUIST,3,21.43
-07,Blue Earth,0175,MANKATO  W-02 P-17,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,11,78.57
-07,Blue Earth,0175,MANKATO  W-02 P-17,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
+07,Blue Earth,0100,MANKATO W-05 P-01,State Representative District 19A,19A,IP,TIM GIESEKE,4,4.65
+07,Blue Earth,0100,MANKATO W-05 P-01,State Representative District 19A,19A,R,ALLEN QUIST,26,30.23
+07,Blue Earth,0100,MANKATO W-05 P-01,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,56,65.12
+07,Blue Earth,0100,MANKATO W-05 P-01,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
+07,Blue Earth,0105,MANKATO W-05 P-02,State Representative District 19A,19A,IP,TIM GIESEKE,0,0.00
+07,Blue Earth,0105,MANKATO W-05 P-02,State Representative District 19A,19A,R,ALLEN QUIST,7,38.89
+07,Blue Earth,0105,MANKATO W-05 P-02,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,11,61.11
+07,Blue Earth,0105,MANKATO W-05 P-02,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
+07,Blue Earth,0170,MANKATO W-02 P-16,State Representative District 19A,19A,IP,TIM GIESEKE,5,3.70
+07,Blue Earth,0170,MANKATO W-02 P-16,State Representative District 19A,19A,R,ALLEN QUIST,54,40.00
+07,Blue Earth,0170,MANKATO W-02 P-16,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,76,56.30
+07,Blue Earth,0170,MANKATO W-02 P-16,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
+07,Blue Earth,0175,MANKATO W-02 P-17,State Representative District 19A,19A,IP,TIM GIESEKE,0,0.00
+07,Blue Earth,0175,MANKATO W-02 P-17,State Representative District 19A,19A,R,ALLEN QUIST,3,21.43
+07,Blue Earth,0175,MANKATO W-02 P-17,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,11,78.57
+07,Blue Earth,0175,MANKATO W-02 P-17,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
 07,Blue Earth,0195,MANKATO TWP P-1,State Representative District 19A,19A,IP,TIM GIESEKE,1,2.94
 07,Blue Earth,0195,MANKATO TWP P-1,State Representative District 19A,19A,R,ALLEN QUIST,17,50.00
 07,Blue Earth,0195,MANKATO TWP P-1,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,16,47.06
@@ -115,10 +115,10 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 52,Nicollet,0095,NORTH MANKATO P 6,State Representative District 19A,19A,R,ALLEN QUIST,103,43.83
 52,Nicollet,0095,NORTH MANKATO P 6,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,119,50.64
 52,Nicollet,0095,NORTH MANKATO P 6,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
-52,Nicollet,0100,MANKATO  W-05 P-01,State Representative District 19A,19A,IP,TIM GIESEKE,2,5.26
-52,Nicollet,0100,MANKATO  W-05 P-01,State Representative District 19A,19A,R,ALLEN QUIST,13,34.21
-52,Nicollet,0100,MANKATO  W-05 P-01,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,23,60.53
-52,Nicollet,0100,MANKATO  W-05 P-01,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
+52,Nicollet,0100,MANKATO W-05 P-01,State Representative District 19A,19A,IP,TIM GIESEKE,2,5.26
+52,Nicollet,0100,MANKATO W-05 P-01,State Representative District 19A,19A,R,ALLEN QUIST,13,34.21
+52,Nicollet,0100,MANKATO W-05 P-01,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,23,60.53
+52,Nicollet,0100,MANKATO W-05 P-01,State Representative District 19A,19A,WI,WRITE-IN**,0,0.00
 52,Nicollet,0110,OSHAWA TOWNSHIP,State Representative District 19A,19A,IP,TIM GIESEKE,16,16.84
 52,Nicollet,0110,OSHAWA TOWNSHIP,State Representative District 19A,19A,R,ALLEN QUIST,27,28.42
 52,Nicollet,0110,OSHAWA TOWNSHIP,State Representative District 19A,19A,DFL,CLARK P. JOHNSON,52,54.74

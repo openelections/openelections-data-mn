@@ -62,9 +62,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 07,Blue Earth,0105,LIBBY TWP W,U.S. Representative District 1,1,R,MIKE PARRY,2,66.67
 07,Blue Earth,0105,LIBBY TWP W,U.S. Representative District 1,1,R,ALLEN QUIST,1,33.33
 07,Blue Earth,0105,LIBBY TWP W,U.S. Representative District 1,1,DFL,TIM WALZ,0,0.00
-07,Blue Earth,0106,MANKATO  W-05 P-03,U.S. Representative District 1,1,R,MIKE PARRY,18,48.65
-07,Blue Earth,0106,MANKATO  W-05 P-03,U.S. Representative District 1,1,R,ALLEN QUIST,19,51.35
-07,Blue Earth,0106,MANKATO  W-05 P-03,U.S. Representative District 1,1,DFL,TIM WALZ,17,100.00
+07,Blue Earth,0106,MANKATO W-05 P-03,U.S. Representative District 1,1,R,MIKE PARRY,18,48.65
+07,Blue Earth,0106,MANKATO W-05 P-03,U.S. Representative District 1,1,R,ALLEN QUIST,19,51.35
+07,Blue Earth,0106,MANKATO W-05 P-03,U.S. Representative District 1,1,DFL,TIM WALZ,17,100.00
 07,Blue Earth,0110,LOGAN TWP,U.S. Representative District 1,1,R,MIKE PARRY,12,54.55
 07,Blue Earth,0110,LOGAN TWP,U.S. Representative District 1,1,R,ALLEN QUIST,10,45.45
 07,Blue Earth,0110,LOGAN TWP,U.S. Representative District 1,1,DFL,TIM WALZ,18,100.00
@@ -1445,9 +1445,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 55,Olmsted,0104,ROCHESTER W1 P5,U.S. Representative District 1,1,R,MIKE PARRY,41,54.67
 55,Olmsted,0104,ROCHESTER W1 P5,U.S. Representative District 1,1,R,ALLEN QUIST,34,45.33
 55,Olmsted,0104,ROCHESTER W1 P5,U.S. Representative District 1,1,DFL,TIM WALZ,64,100.00
-55,Olmsted,0106,MANKATO  W-05 P-03,U.S. Representative District 1,1,R,MIKE PARRY,5,21.74
-55,Olmsted,0106,MANKATO  W-05 P-03,U.S. Representative District 1,1,R,ALLEN QUIST,18,78.26
-55,Olmsted,0106,MANKATO  W-05 P-03,U.S. Representative District 1,1,DFL,TIM WALZ,22,100.00
+55,Olmsted,0106,MANKATO W-05 P-03,U.S. Representative District 1,1,R,MIKE PARRY,5,21.74
+55,Olmsted,0106,MANKATO W-05 P-03,U.S. Representative District 1,1,R,ALLEN QUIST,18,78.26
+55,Olmsted,0106,MANKATO W-05 P-03,U.S. Representative District 1,1,DFL,TIM WALZ,22,100.00
 55,Olmsted,0108,ROCHESTER W1 P7,U.S. Representative District 1,1,R,MIKE PARRY,47,52.81
 55,Olmsted,0108,ROCHESTER W1 P7,U.S. Representative District 1,1,R,ALLEN QUIST,42,47.19
 55,Olmsted,0108,ROCHESTER W1 P7,U.S. Representative District 1,1,DFL,TIM WALZ,50,100.00
@@ -3143,9 +3143,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 27,Hennepin,0105,LIBBY TWP W,U.S. Representative District 3,3,R,ERIK PAULSEN,127,94.78
 27,Hennepin,0105,LIBBY TWP W,U.S. Representative District 3,3,R,JOHN W. HOWARD III,7,5.22
 27,Hennepin,0105,LIBBY TWP W,U.S. Representative District 3,3,DFL,BRIAN BARNES,56,100.00
-27,Hennepin,0106,MANKATO  W-05 P-03,U.S. Representative District 3,3,R,ERIK PAULSEN,102,94.44
-27,Hennepin,0106,MANKATO  W-05 P-03,U.S. Representative District 3,3,R,JOHN W. HOWARD III,6,5.56
-27,Hennepin,0106,MANKATO  W-05 P-03,U.S. Representative District 3,3,DFL,BRIAN BARNES,52,100.00
+27,Hennepin,0106,MANKATO W-05 P-03,U.S. Representative District 3,3,R,ERIK PAULSEN,102,94.44
+27,Hennepin,0106,MANKATO W-05 P-03,U.S. Representative District 3,3,R,JOHN W. HOWARD III,6,5.56
+27,Hennepin,0106,MANKATO W-05 P-03,U.S. Representative District 3,3,DFL,BRIAN BARNES,52,100.00
 27,Hennepin,0107,BLOOMINGTON W-3 P-29,U.S. Representative District 3,3,R,ERIK PAULSEN,37,90.24
 27,Hennepin,0107,BLOOMINGTON W-3 P-29,U.S. Representative District 3,3,R,JOHN W. HOWARD III,4,9.76
 27,Hennepin,0107,BLOOMINGTON W-3 P-29,U.S. Representative District 3,3,DFL,BRIAN BARNES,24,100.00
@@ -3470,9 +3470,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 27,Hennepin,1300,BURNSVILLE P-10,U.S. Representative District 3,3,R,ERIK PAULSEN,35,87.50
 27,Hennepin,1300,BURNSVILLE P-10,U.S. Representative District 3,3,R,JOHN W. HOWARD III,5,12.50
 27,Hennepin,1300,BURNSVILLE P-10,U.S. Representative District 3,3,DFL,BRIAN BARNES,25,100.00
-27,Hennepin,1335,MAPLE PLAIN  P-01,U.S. Representative District 3,3,R,ERIK PAULSEN,62,93.94
-27,Hennepin,1335,MAPLE PLAIN  P-01,U.S. Representative District 3,3,R,JOHN W. HOWARD III,4,6.06
-27,Hennepin,1335,MAPLE PLAIN  P-01,U.S. Representative District 3,3,DFL,BRIAN BARNES,26,100.00
+27,Hennepin,1335,MAPLE PLAIN P-01,U.S. Representative District 3,3,R,ERIK PAULSEN,62,93.94
+27,Hennepin,1335,MAPLE PLAIN P-01,U.S. Representative District 3,3,R,JOHN W. HOWARD III,4,6.06
+27,Hennepin,1335,MAPLE PLAIN P-01,U.S. Representative District 3,3,DFL,BRIAN BARNES,26,100.00
 27,Hennepin,1345,MEDICINE LAKE P-01,U.S. Representative District 3,3,R,ERIK PAULSEN,16,100.00
 27,Hennepin,1345,MEDICINE LAKE P-01,U.S. Representative District 3,3,R,JOHN W. HOWARD III,0,0.00
 27,Hennepin,1345,MEDICINE LAKE P-01,U.S. Representative District 3,3,DFL,BRIAN BARNES,33,100.00
