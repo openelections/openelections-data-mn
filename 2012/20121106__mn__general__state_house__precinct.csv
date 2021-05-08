@@ -1116,9 +1116,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 07,Blue Earth,0100,LIBBY TWP E,State Representative District 19A,19A,WI,WRITE-IN**,13,2.86
 07,Blue Earth,0105,LIBBY TWP W,State Representative District 19A,19A,DFL,TERRY MORROW,175,96.69
 07,Blue Earth,0105,LIBBY TWP W,State Representative District 19A,19A,WI,WRITE-IN**,6,3.31
-07,Blue Earth,0106,MANKATO  W-05 P-03,State Representative District 19B,19B,R,THAD SHUNKWILER,245,31.86
-07,Blue Earth,0106,MANKATO  W-05 P-03,State Representative District 19B,19B,DFL,KATHY BRYNAERT,524,68.14
-07,Blue Earth,0106,MANKATO  W-05 P-03,State Representative District 19B,19B,WI,WRITE-IN**,0,0.00
+07,Blue Earth,0106,MANKATO W-05 P-03,State Representative District 19B,19B,R,THAD SHUNKWILER,245,31.86
+07,Blue Earth,0106,MANKATO W-05 P-03,State Representative District 19B,19B,DFL,KATHY BRYNAERT,524,68.14
+07,Blue Earth,0106,MANKATO W-05 P-03,State Representative District 19B,19B,WI,WRITE-IN**,0,0.00
 07,Blue Earth,0110,LOGAN TWP,State Representative District 19B,19B,R,THAD SHUNKWILER,114,27.21
 07,Blue Earth,0110,LOGAN TWP,State Representative District 19B,19B,DFL,KATHY BRYNAERT,305,72.79
 07,Blue Earth,0110,LOGAN TWP,State Representative District 19B,19B,WI,WRITE-IN**,0,0.00
@@ -3790,9 +3790,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 27,Hennepin,0105,LIBBY TWP W,State Representative District 49B,49B,R,TERRY JACOBSON,849,50.63
 27,Hennepin,0105,LIBBY TWP W,State Representative District 49B,49B,DFL,PAUL ROSENTHAL,825,49.20
 27,Hennepin,0105,LIBBY TWP W,State Representative District 49B,49B,WI,WRITE-IN**,3,0.18
-27,Hennepin,0106,MANKATO  W-05 P-03,State Representative District 49B,49B,R,TERRY JACOBSON,771,50.69
-27,Hennepin,0106,MANKATO  W-05 P-03,State Representative District 49B,49B,DFL,PAUL ROSENTHAL,747,49.11
-27,Hennepin,0106,MANKATO  W-05 P-03,State Representative District 49B,49B,WI,WRITE-IN**,3,0.20
+27,Hennepin,0106,MANKATO W-05 P-03,State Representative District 49B,49B,R,TERRY JACOBSON,771,50.69
+27,Hennepin,0106,MANKATO W-05 P-03,State Representative District 49B,49B,DFL,PAUL ROSENTHAL,747,49.11
+27,Hennepin,0106,MANKATO W-05 P-03,State Representative District 49B,49B,WI,WRITE-IN**,3,0.20
 27,Hennepin,0107,BLOOMINGTON W-3 P-29,State Representative District 50A,50A,IP,JOSEPH KOCH,99,8.26
 27,Hennepin,0107,BLOOMINGTON W-3 P-29,State Representative District 50A,50A,R,CRAIG MARSTON,396,33.03
 27,Hennepin,0107,BLOOMINGTON W-3 P-29,State Representative District 50A,50A,DFL,LINDA SLOCUM,702,58.55
@@ -4237,9 +4237,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 27,Hennepin,1300,BURNSVILLE P-10,State Representative District 34B,34B,R,KURT ZELLERS,765,57.95
 27,Hennepin,1300,BURNSVILLE P-10,State Representative District 34B,34B,DFL,DAVID B. HODEN,554,41.97
 27,Hennepin,1300,BURNSVILLE P-10,State Representative District 34B,34B,WI,WRITE-IN**,1,0.08
-27,Hennepin,1335,MAPLE PLAIN  P-01,State Representative District 33A,33A,R,JERRY HERTAUS,483,50.52
-27,Hennepin,1335,MAPLE PLAIN  P-01,State Representative District 33A,33A,DFL,TODD MIKKELSON,472,49.37
-27,Hennepin,1335,MAPLE PLAIN  P-01,State Representative District 33A,33A,WI,WRITE-IN**,1,0.10
+27,Hennepin,1335,MAPLE PLAIN P-01,State Representative District 33A,33A,R,JERRY HERTAUS,483,50.52
+27,Hennepin,1335,MAPLE PLAIN P-01,State Representative District 33A,33A,DFL,TODD MIKKELSON,472,49.37
+27,Hennepin,1335,MAPLE PLAIN P-01,State Representative District 33A,33A,WI,WRITE-IN**,1,0.10
 27,Hennepin,1345,MEDICINE LAKE P-01,State Representative District 46A,46A,R,JOHN SWANSON,104,44.26
 27,Hennepin,1345,MEDICINE LAKE P-01,State Representative District 46A,46A,DFL,RYAN WINKLER,131,55.74
 27,Hennepin,1345,MEDICINE LAKE P-01,State Representative District 46A,46A,WI,WRITE-IN**,0,0.00
@@ -7710,9 +7710,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 55,Olmsted,0104,ROCHESTER W1 P5,State Representative District 26B,26B,R,MIKE BENSON,573,51.21
 55,Olmsted,0104,ROCHESTER W1 P5,State Representative District 26B,26B,DFL,PAT STALLMAN,544,48.61
 55,Olmsted,0104,ROCHESTER W1 P5,State Representative District 26B,26B,WI,WRITE-IN**,2,0.18
-55,Olmsted,0106,MANKATO  W-05 P-03,State Representative District 26A,26A,R,BREANNA BLY,111,38.41
-55,Olmsted,0106,MANKATO  W-05 P-03,State Representative District 26A,26A,DFL,TINA LIEBLING,176,60.90
-55,Olmsted,0106,MANKATO  W-05 P-03,State Representative District 26A,26A,WI,WRITE-IN**,2,0.69
+55,Olmsted,0106,MANKATO W-05 P-03,State Representative District 26A,26A,R,BREANNA BLY,111,38.41
+55,Olmsted,0106,MANKATO W-05 P-03,State Representative District 26A,26A,DFL,TINA LIEBLING,176,60.90
+55,Olmsted,0106,MANKATO W-05 P-03,State Representative District 26A,26A,WI,WRITE-IN**,2,0.69
 55,Olmsted,0108,ROCHESTER W1 P7,State Representative District 26B,26B,R,MIKE BENSON,753,51.82
 55,Olmsted,0108,ROCHESTER W1 P7,State Representative District 26B,26B,DFL,PAT STALLMAN,698,48.04
 55,Olmsted,0108,ROCHESTER W1 P7,State Representative District 26B,26B,WI,WRITE-IN**,2,0.14

@@ -1081,8 +1081,8 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 07,Blue Earth,0100,LIBBY TWP E,State Senator District 19,19,WI,WRITE-IN**,10,2.07
 07,Blue Earth,0105,LIBBY TWP W,State Senator District 19,19,DFL,KATHY SHERAN,176,95.65
 07,Blue Earth,0105,LIBBY TWP W,State Senator District 19,19,WI,WRITE-IN**,8,4.35
-07,Blue Earth,0106,MANKATO  W-05 P-03,State Senator District 19,19,DFL,KATHY SHERAN,670,98.10
-07,Blue Earth,0106,MANKATO  W-05 P-03,State Senator District 19,19,WI,WRITE-IN**,13,1.90
+07,Blue Earth,0106,MANKATO W-05 P-03,State Senator District 19,19,DFL,KATHY SHERAN,670,98.10
+07,Blue Earth,0106,MANKATO W-05 P-03,State Senator District 19,19,WI,WRITE-IN**,13,1.90
 07,Blue Earth,0110,LOGAN TWP,State Senator District 19,19,DFL,KATHY SHERAN,373,98.42
 07,Blue Earth,0110,LOGAN TWP,State Senator District 19,19,WI,WRITE-IN**,6,1.58
 07,Blue Earth,0115,MCGRATH,State Senator District 19,19,DFL,KATHY SHERAN,423,97.02
@@ -3597,9 +3597,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 27,Hennepin,0105,LIBBY TWP W,State Senator District 49,49,R,KEITH DOWNEY,850,51.02
 27,Hennepin,0105,LIBBY TWP W,State Senator District 49,49,DFL,MELISA FRANZEN,811,48.68
 27,Hennepin,0105,LIBBY TWP W,State Senator District 49,49,WI,WRITE-IN**,5,0.30
-27,Hennepin,0106,MANKATO  W-05 P-03,State Senator District 49,49,R,KEITH DOWNEY,780,51.11
-27,Hennepin,0106,MANKATO  W-05 P-03,State Senator District 49,49,DFL,MELISA FRANZEN,743,48.69
-27,Hennepin,0106,MANKATO  W-05 P-03,State Senator District 49,49,WI,WRITE-IN**,3,0.20
+27,Hennepin,0106,MANKATO W-05 P-03,State Senator District 49,49,R,KEITH DOWNEY,780,51.11
+27,Hennepin,0106,MANKATO W-05 P-03,State Senator District 49,49,DFL,MELISA FRANZEN,743,48.69
+27,Hennepin,0106,MANKATO W-05 P-03,State Senator District 49,49,WI,WRITE-IN**,3,0.20
 27,Hennepin,0107,BLOOMINGTON W-3 P-29,State Senator District 50,50,R,VERN WILCOX,503,41.40
 27,Hennepin,0107,BLOOMINGTON W-3 P-29,State Senator District 50,50,DFL,MELISSA HALVORSON WIKLUND,709,58.35
 27,Hennepin,0107,BLOOMINGTON W-3 P-29,State Senator District 50,50,WI,WRITE-IN**,3,0.25
@@ -4020,9 +4020,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 27,Hennepin,1300,BURNSVILLE P-10,State Senator District 34,34,R,WARREN LIMMER,753,58.01
 27,Hennepin,1300,BURNSVILLE P-10,State Senator District 34,34,DFL,SHARON BAHENSKY,543,41.83
 27,Hennepin,1300,BURNSVILLE P-10,State Senator District 34,34,WI,WRITE-IN**,2,0.15
-27,Hennepin,1335,MAPLE PLAIN  P-01,State Senator District 33,33,R,DAVID OSMEK,485,50.21
-27,Hennepin,1335,MAPLE PLAIN  P-01,State Senator District 33,33,DFL,JUDY ROGOSHESKE,476,49.28
-27,Hennepin,1335,MAPLE PLAIN  P-01,State Senator District 33,33,WI,WRITE-IN**,5,0.52
+27,Hennepin,1335,MAPLE PLAIN P-01,State Senator District 33,33,R,DAVID OSMEK,485,50.21
+27,Hennepin,1335,MAPLE PLAIN P-01,State Senator District 33,33,DFL,JUDY ROGOSHESKE,476,49.28
+27,Hennepin,1335,MAPLE PLAIN P-01,State Senator District 33,33,WI,WRITE-IN**,5,0.52
 27,Hennepin,1345,MEDICINE LAKE P-01,State Senator District 46,46,R,PAUL SCOFIELD,100,42.73
 27,Hennepin,1345,MEDICINE LAKE P-01,State Senator District 46,46,DFL,RON LATZ,134,57.27
 27,Hennepin,1345,MEDICINE LAKE P-01,State Senator District 46,46,WI,WRITE-IN**,0,0.00
@@ -7420,9 +7420,9 @@ county_code,county,precinct_code,precinct,office,district,party,candidate,votes,
 55,Olmsted,0104,ROCHESTER W1 P5,State Senator District 26,26,R,CARLA NELSON,638,55.82
 55,Olmsted,0104,ROCHESTER W1 P5,State Senator District 26,26,DFL,KENNETH R. MOEN,504,44.09
 55,Olmsted,0104,ROCHESTER W1 P5,State Senator District 26,26,WI,WRITE-IN**,1,0.09
-55,Olmsted,0106,MANKATO  W-05 P-03,State Senator District 26,26,R,CARLA NELSON,139,48.10
-55,Olmsted,0106,MANKATO  W-05 P-03,State Senator District 26,26,DFL,KENNETH R. MOEN,149,51.56
-55,Olmsted,0106,MANKATO  W-05 P-03,State Senator District 26,26,WI,WRITE-IN**,1,0.35
+55,Olmsted,0106,MANKATO W-05 P-03,State Senator District 26,26,R,CARLA NELSON,139,48.10
+55,Olmsted,0106,MANKATO W-05 P-03,State Senator District 26,26,DFL,KENNETH R. MOEN,149,51.56
+55,Olmsted,0106,MANKATO W-05 P-03,State Senator District 26,26,WI,WRITE-IN**,1,0.35
 55,Olmsted,0108,ROCHESTER W1 P7,State Senator District 26,26,R,CARLA NELSON,824,55.23
 55,Olmsted,0108,ROCHESTER W1 P7,State Senator District 26,26,DFL,KENNETH R. MOEN,665,44.57
 55,Olmsted,0108,ROCHESTER W1 P7,State Senator District 26,26,WI,WRITE-IN**,3,0.20
