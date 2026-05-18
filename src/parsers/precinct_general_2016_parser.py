@@ -18,7 +18,7 @@ def counties():
         try:
             county_code, county, fill = line.strip().split(';')
             counties.append({'county_code': county_code.strip(), 'county': county})
-        except:
+        except (ValueError, IndexError):
             continue
     return counties
 
@@ -30,7 +30,7 @@ def precincts():
         try:
             county_code, precinct_code, precinct_name, cong_dist, mn_house_dist, county_comm_dist, jud_dist, swc_dist, fips_code, fill = line.strip().split(';') # fips_code (MCD FIPS Code) added since it is now present in the precinct files
             precincts.append({'county_code': county_code.strip(), 'precinct_code': precinct_code, 'precinct_name': precinct_name, 'cong_dist': cong_dist, 'mn_house_dist': mn_house_dist, 'county_comm_dist': county_comm_dist, 'jud_dist':jud_dist, 'swc_dist': swc_dist })
-        except:
+        except (ValueError, IndexError):
             continue
     return precincts
 
@@ -44,7 +44,7 @@ def parse_file(url, counties, precincts):
             county = [x['county'] for x in counties if result[1] == x['county_code']][0]
             precinct = [x['precinct_name'] for x in precincts if result[2] == x['precinct_code']][0]
             results.append({"county_code": result[1], "county": county, "precinct_code": result[2], "precinct": precinct, "office_code": result[3], "office": result[4], "district": result[5], "candidate_code": result[6], "candidate": result[7], "party": result[10], "votes": result[13], "pct": result[14]})
-        except:
+        except (ValueError, IndexError):
             raise
     return results
 
